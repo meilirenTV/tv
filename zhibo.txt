@@ -69,7 +69,7 @@
 
 📺央视专线,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-
+https://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -1133,7 +1133,21 @@ CCTV-1综合标清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783
 
 
 📺山西地方,#genre#
+﻿凤凰卫视中文台,http://61.178.129.228:9901/tsfile/live/1013_1.m3u8?key=txiptv
 
+凤凰卫视资讯台,http://61.178.129.228:9901/tsfile/live/1014_1.m3u8?key=txiptv
+
+凤凰卫视香港台,http://61.178.129.228:9901/tsfile/live/1012_1.m3u8?key=txiptv
+﻿凤凰卫视,https://0472.org/hls/youzaiSB/fhzw.m3u8
+
+凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
+
+凤凰香港,https://0472.org/hls/youzaiSB/fhxg.m3u8
+﻿凤凰中文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+
+凤凰资讯 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 山西黄河,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
   山西影视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
   经济与科技,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
