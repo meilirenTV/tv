@@ -23,6 +23,7 @@
 			"quickSearch": 1,
 			"changeable": 1
 		},
+{"key":"天天","name":"魅力人 天天影视","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},			
 {
       "key": "一起看 ",
       "name": "魅力人 一起看电影",
@@ -37,6 +38,8 @@
  {"key":"巧技三","name":"魅力人 巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
  {"key":"巧技四","name":"魅力人 巧技四","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
  {"key":"巧技五","name":"魅力人 巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"},
+ {"key":"蜂鸟","name":"魅力 蜂鸟影视","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"}
+ {"key":"Lib","name":"Lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
  { "key": "996", 
 "name": "魅力人 996影视",
  "type": 3, 
@@ -64,7 +67,7 @@
 	
 
 
-{"key":"天天","name":"魅力人 天天影视","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},	
+
 {
       "key": "小柚",
       "name": "魅力人 小柚影视",
@@ -325,6 +328,8 @@
 //{"name":"💓Json轮询","type":2,"url":"Sequence"},
 {"name":"LR","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","ext":{"flag":["imgv","migu","qq","qiyi","mgtv","bilibili","youku"]}},
 {"name":"拾光夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"公众号：肥猫宝贝","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"拾光m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
 酷","mgtv","imgo","芒果"]}},
 {"name":"拾光探","type":0,"url":"https://jx.xmflv.com/?url="},
