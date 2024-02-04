@@ -34,6 +34,24 @@
   大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
   人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
+📺百视有线,#genre#
+百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
+百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
+百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
+
+
+百视TV4,https://bp-caster.bestv.com.cn/941/3/video.m3u8
+
+
+百视TV5,https://bp-caster.bestv.com.cn/938/3/video.m3u8
+
+百视独播6,https://bp-caster.bestv.com.cn/940/3/video.m3u8
+百视独播7,https://bp-caster.bestv.com.cn/944/3/video.m3u8
+百视自制8,https://bp-caster.bestv.com.cn/723/3/video.m3u8
+独家直播9,https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
+
+
 📺陕西移动,#genre#
 CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
   CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
