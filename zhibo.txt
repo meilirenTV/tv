@@ -34,21 +34,7 @@
   大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
   人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-📺百视有线,#genre#
-百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
-百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
-百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
 
-
-百视TV4,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-
-
-百视TV5,https://bp-caster.bestv.com.cn/938/3/video.m3u8
-
-百视独播6,https://bp-caster.bestv.com.cn/940/3/video.m3u8
-百视独播7,https://bp-caster.bestv.com.cn/944/3/video.m3u8
-百视自制8,https://bp-caster.bestv.com.cn/723/3/video.m3u8
-独家直播9,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 
 
