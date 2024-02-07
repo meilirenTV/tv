@@ -584,10 +584,13 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
   重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
 
 📺4K测试,#genre#
-CCTV14k,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
-  CCTV34K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-  CCTV54K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-  CCTV64K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV1–4k,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
+  CCTV3–4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+  CCTV5–4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+  CCTV6–4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+  咪咕8K-1,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
+咪咕8K-2,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
+天映经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683110
   精彩影视,http://[2409:8087:7001:20:1000::83]:6610/000000001000/6000000006000320630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3&IASHttpSessionId=RR504120240120125555381568
   历史频道,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/231/index.m3u8
   苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -791,21 +794,20 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 📺网通多线,#genre#
-CCTV01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
-  CCTV01测试,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
-  CCTV01测试,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
-  CCTV02测试,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
-  CCTV13测试,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
+  
   CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
   CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
   CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+  CCTV1,https://ngtv.sjpt.ylrb.com/PLTV/88888888/224/3221225942/index.m3u8
+  CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
   CCTV2,http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8#http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=5353323539453949720&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=#http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls
+  CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
   CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
   CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
   CCTV5,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
   CCTV-5+,http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
   CCTV6,http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
-  CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
   CCTV7,http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
   CCTV8,http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
   CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8#http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
@@ -817,7 +819,6 @@ CCTV01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
   CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
   CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
   CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8#http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv14HD/__op/default/__f//index.m3u8
-  CCTV-14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?
   CCTV14,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
   CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
   CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
@@ -843,7 +844,8 @@ CCTV01测试,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
   湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225569/index.m3u8
   湖北卫视,http://39.134.65.164/PLTV/88888888/224/3221225569/index.m3u8
   贵州卫视,http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
-  
+
+
 
 📺移动专线,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -1159,7 +1161,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 黑龙江新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
-黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
+黑龙江,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8
@@ -1188,7 +1190,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357
   CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
   CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
   CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-  CCTV-6,http://180.97.247.27/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+  
   
   CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw3940641123_459833286/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8?icpid=3&RTS=1668594440&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
   CCTV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1203,7 +1205,7 @@ CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357
   CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1163769185_740775021/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8?icpid=3&RTS=1674381279&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
   CCTV15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
   CCTV17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-  CCTV4k超高清[3840*2160],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
+  CCTV专线超高清[3840*2160],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
  CCTV8k超高清[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=340&vqe=3
   
   CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4086984004_1136880123/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1668594586&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
