@@ -1,6 +1,8 @@
-
+📺打赏频道,#genre#
+魅力人打赏画面,https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
 
 📺全球频道,#genre#
+
 魅力人IPTV直播画面,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -2005,6 +2007,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
+美女蹦迪a,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clt4kcrc77u2qhihanig&ratio=720p&line=0
 美女蹦迪A,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
 美女蹦迪B,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
 美女蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
@@ -2020,7 +2023,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 美女蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clfui8bc77u3lknr5ft0&ratio=720p&line=0
 美女蹦迪10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clj8udrc77u5110f1sb0&ratio=720p&line=0
 
-美女蹦迪11,https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000clbmcg3c77uf667bi7ig&ratio=720p&line=0
+美女蹦迪11,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cas3q63c77u8sdodflkg&ratio=720p&line=0
 
 美女蹦迪12,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cgi44cbc77uck5u713t0&ratio=720p&line=0
 美女蹦迪13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000chshue3c77u0pds9k57g&ratio=720p&line=0
