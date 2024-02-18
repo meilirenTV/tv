@@ -1,6 +1,61 @@
 📺打赏频道,#genre#
 魅力人打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
-CCTV1高清,http://110.179.81.206:8082/udp/239.1.1.7:8007
+CCTV1电信,http://110.179.81.206:8082/udp/239.1.1.7:8007
+广东移动,
+http://183.236.13.168:808/hls/62/index.m3u8
+CCTV1,http://183.236.13.168:808/hls/1/index.m3u8
+CCTV2,
+ copy to clip
+http://183.236.13.168:808/hls/2/index.m3u8
+CCTV3,
+ copy to clip
+http://183.236.13.168:808/hls/3/index.m3u8
+CCTV4,
+ copy to clip
+http://183.236.13.168:808/hls/4/index.m3u8
+CCTV5,
+ copy to clip
+http://183.236.13.168:808/hls/5/index.m3u8
+CCTV6,
+ copy to clip
+http://183.236.13.168:808/hls/6/index.m3u8
+CCTV7,
+ copy to clip
+http://183.236.13.168:808/hls/7/index.m3u8
+CCTV8,
+ copy to clip
+http://183.236.13.168:808/hls/8/index.m3u8
+CCTV9,
+ copy to clip
+http://183.236.13.168:808/hls/9/index.m3u8
+CCTV10,
+ copy to clip
+http://183.236.13.168:808/hls/10/index.m3u8
+CCTV11,
+ copy to clip
+http://183.236.13.168:808/hls/11/index.m3u8
+CCTV12,
+ copy to clip
+http://183.236.13.168:808/hls/12/index.m3u8
+CCTV13,
+ copy to clip
+http://183.236.13.168:808/hls/13/index.m3u8
+CCTV14,
+ copy to clip
+http://183.236.13.168:808/hls/14/index.m3u8
+CCTV15,
+ copy to clip
+http://183.236.13.168:808/hls/15/index.m3u8
+CGTN,
+ copy to clip
+http://183.236.13.168:808/hls/16/index.m3u8
+CCTV17,
+ copy to clip
+http://183.236.13.168:808/hls/17/index.m3u8
+广东卫视
+ copy to clip
+,http://183.236.13.168:808/hls/18/index.m3u8
+
 📺全球频道,#genre#
 
 魅力人IPTV直播画面,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
