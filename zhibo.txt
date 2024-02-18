@@ -1,6 +1,6 @@
 📺打赏频道,#genre#
 魅力人打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
-
+CCTV1高清,http://110.179.81.206:8082/udp/239.1.1.7:8007
 📺全球频道,#genre#
 
 魅力人IPTV直播画面,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
@@ -1721,6 +1721,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
   CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
   CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
   都市剧场HD,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
+  精彩影视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
   重温经典台,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
   EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
   EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -1735,6 +1736,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
   4k修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
   西部电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
   黑莓电影,http://39.134.65.173/PLTV/88888888/224/3221225681/1.m3u8
+ 黑莓动画,https://epg.pw/stream/45813b437b496af365b98b5b50b7bec13f152ff9fb879a54eac30751384d665d.m3u8
+黑莓动画,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000002&livemode=1&stbId=3
   CHC高清影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
   隆化电影(高清),http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
   邵氏影院代,http://159.75.85.63:35455/douyu/4246519
