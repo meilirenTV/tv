@@ -1,5 +1,5 @@
-{"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
 
+{"spider":"http://like.xn--z7x900a.live:66/jar/PandaQ240218.jar;md5;C5F11F93E689B6DCFE0D0723EF7D69EE",
 "lives":[{"name":"魅力人IPTV1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"魅力人IPTV2","type":0,"url":"https://notabug.org/mlr/tv/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"魅力人IPTV3","type":0,"url":"https://gitcode.net/mlrz/meiliren/-/raw/master/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -13,15 +13,24 @@
 "wallpaper":"https://gitlab.com/meoliren/tv/-/raw/main/1647417832005ckt_img.png",
 "sites":
  [{"key":"魅力人","name":"本影视软件有@魅力人开发维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b"},
+ {"key":"nangua","name":"🎃┃南瓜┃影视","type":3,"playerType":"2","api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/南瓜.js"},
+
+{"key":"77","name":"魅力 七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt;md5;1ff3df38a66ee5378031e4fac1799596"},	
+{
+      "key": "一起看 ",
+      "name": "魅力人 一起看电影",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://notabug.org/mlr/tv/raw/master/doraAmen.jar"},	
+{"key":"贱贱","name":"魅力 贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
   {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2"},
-   {
-      "key": "小胡",
-      "name": "清晰度高稍慢点 魅力4K",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
-      "jar": "http://xiaohu.xzam.cn/jar/1.jar"
-    },	
+  {"key":"csp_Vidhub2","name":"🎼┃Vid┃影视","type":3,"api":"csp_Vidhub2","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"csp_麻瓜","name":"🪢┃麻瓜┃影视","type":3,"api":"csp_Lvdou","searchable":1,"quickSearch":0,"changeable":0,"playerType":"1","ext":{"server":"http://s.weixine.link:1234/api.php/app/","mackey":"NrUnudVHl7rwQ4Zi|PHRBxdt7PppocRJ5"}},{"key":"二懒影视","name":"🏍️┃二懒┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy.yuzhoukeji.top/api.php/app/","playerType":1},
+  {"key":"乐乐","name":"🎡️┃乐乐┃影视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
+  {"key":"小胡","name":"🍈️┃小胡┃影视","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext":"http://dt.xn--yety82d.love/js/小胡.js","playerType":2},
+  
   {
           "key": "csp_SixV",
           "name": "💕┃磁力┃4K",
@@ -31,35 +40,11 @@
           "ext": "https://www.6vdy.org/",
         "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
         },
- {"key": "南瓜","name": "魅力人 南瓜影视","type": 3,"api": "csp_NanGua",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
+ 
 
- {"key":"酷看","name":"💡酷看┃App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8dae"},
-{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8dae"},
-{"key":"南坊","name":"☀南坊┃App","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8dae"},   	
 {"key":"畅梦","name":"魅力人 畅梦秒播","type":3,"api":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js","ext":"https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/changmeng.js"},		
-{"key":"77","name":"魅力 七七影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt;md5;1ff3df38a66ee5378031e4fac1799596"},	
+
 {"key":"csp_Nmys","name":"魅力人 农民影院","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705601871140/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87"}, 		
-		
-{
-      "key": "一起看 ",
-      "name": "魅力人 一起看电影",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar": "https://notabug.org/mlr/tv/raw/master/doraAmen.jar"},	
-   
-	
-
-	
-{"key":"贱贱","name":"魅力 贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
-{"key":"天天","name":"魅力人 天天影视","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},		
-
 
     {
           "key": "csp_Mp4Mov",
@@ -110,11 +95,7 @@
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E"},
 
 {"key":"小纸条","name":"猫┃纸条┃网盘","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240208.jar;md5;888A64F65AAB54892980DED5C6DA9A6E"},
-{"key":"巧技一","name":"魅力人 巧技一","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
- {"key":"巧技二","name":"魅力人 巧技二","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
- {"key":"巧技三","name":"魅力人 巧技三","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"},
- {"key":"巧技四","name":"魅力人 巧技四","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"},
- {"key":"巧技五","name":"魅力人 巧技五","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"},
+
 {"key": "熊掌","name": "🐻┃熊掌┃高清","type": 1,"api": "https://xzcjz.com/api.php/provide/vod","jar": "https://tvbox.cainisi.cf/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d"},
 {
       "key": "豪华资源",
@@ -211,17 +192,17 @@
   
     
 
-{"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy66.com/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705601871140/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87"},
+
 {"key":"毛驴","name":"🍓毛驴┃直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707932830072/fan.txt;md5;be7060a567ce9e8021946b6de0ed8dae"},
 
-{"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705601871140/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87"},
+
 		
 		
 		
-{"key":"星星","name":"魅力人 星星影视","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"},		
+	
    {"key":"新浪资源","name":"魅力人 新浪影视","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},    
             
-{"key":"drpy_js_360影视","name":"📺┃360┃官源","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/360.js"},
+
          
 {"key": "csp_kuaikan",
             "name": "魅力人 快看影视",
@@ -278,35 +259,7 @@
       "changeable": 0,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/MySpider.jar"
     },
     
-{"key":"csp_SP33","name":"三三解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;6fb0a205b857f35e165a5f8cb2f8056d"},
-
-
-
-   
-    
-  
-    
-      {
-      "key": "MV大全",
-      "name": "MV歌曲",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }, 
-                     
-{
-            "key" : "音乐",
-            "name" : "音乐MV",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-          
-
+{"key":"csp_SP33","name":"三三解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;6fb0a205b857f35e165a5f8cb2f8056d"},    
    {"key":"量子资源","name":"量子影院","type":1,"api":"http://www.lzizy5.com/api.php/provide/vod/","searchable":1,"quickSearch":1 ,"filterable":0,"categories": [
                "国产剧",
                 "动作片",
@@ -383,20 +336,13 @@
 
 			     
 
-{"key":"*老鸭资源","name":"*注意少儿不宜🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
-{"key":"应用商店","name":"魅力人 应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://fm.t4tv.hz.cz/json/market.json","jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240204.jar;md5;06425BED57257F1B996CDAB400479129"},
- {"key":"皮皮虾","name":"魅力人 皮皮影视","type":3,"api":"csp_PipiXia","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://like.xn--z7x900a.live:66/jar/PandaQ240204.jar;md5;A685C4759799947B937D69FA811BBF25"}],
-
-        
-   
+{"key":"*老鸭资源","name":"*注意少儿不宜🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0}],
+          
 "parses":[
 
 {"name":"💓解析聚合","type":3,"url":"Demo"},
 //{"name":"💓Json并发","type":2,"url":"Parallel"},
 //{"name":"💓Json轮询","type":2,"url":"Sequence"},
-
-
 
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 
