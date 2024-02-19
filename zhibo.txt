@@ -1,85 +1,12 @@
 📺打赏频道,#genre#
 魅力人打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
+我的家,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 CCTV1电信,http://110.179.81.206:8082/udp/239.1.1.7:8007
-联通测试,
-山西黄河HD,
-http://183.184.231.42:8082/rtp/226.0.2.235:9792
-山西经济与科技HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.236:9800
-山西影视HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.237:9808
-山西社会与法治HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.238:9816
-山西文体生活HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.16:8040
-山西卫视,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.11:8000
-山西黄河,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.12:8008
-山西经济与科技,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.13:8016
-山西影视,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.14:8024
-山西社会与法治,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.15:8032
-CCTV1-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.153:9136
-CCTV2-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.154:9144
-CCTV3-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.208:9576
-CCTV4-HD
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.156:9160
-CCTV5-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.209:9584
-CCTV6-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.210:9592
-CCTV7-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.159:9184
-CCTV8-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.211:9600
-CCTV9-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.161:9200
-CCTV10-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.162:9208
-CCTV12-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.164:9224
-CCTV13-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.165:9232
-CCTV14-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.166:9240
-CCTV5+-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.168:9256
-CCTV16-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.169:9264
-CCTV17-HD,
- copy to clip
-http://183.184.231.42:8082/rtp/226.0.2.170:9272
+凤凰中文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
+凤凰资讯 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 
 📺全球频道,#genre#
 
@@ -1740,12 +1667,8 @@ CCTV-1综合标清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225783
 
 📺山西地方,#genre#
 ﻿
-凤凰香港,https://0472.org/hls/youzaiSB/fhxg.m3u8
-﻿凤凰中文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
-凤凰资讯 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+﻿
 山西黄河,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
   山西影视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
   经济与科技,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
