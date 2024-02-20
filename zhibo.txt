@@ -1,5 +1,5 @@
 📺打赏频道,#genre#
-打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
+打赏画面,https://v5-ot-vod.kwaicdn.com/bs3/video-hls/5201657696247067154_hlsb.m3u8?ftt=R&pkey=AAVeoKMNJXY0ekIcVQI9Nh9xL_7BX8LbypPfbe9crNUrCg_RXx40O5R4MvYmtrr19ntbh7gnLfxbB_qQQhtTOzWHuHCwnStb-CWQjtQnNvobuFDbxeziOMxTg3T9gCZzZJ0&ss=vp#https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 CCTV1电信,http://110.179.81.206:8082/udp/239.1.1.7:8007
 凤凰中文 8M1080,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -1726,7 +1726,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
   都市剧场HD,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
   精彩影视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000063/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
   重温经典台,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-  重温经典,http://124.231.214.100:9999/tsfile/live/1111_1.m3u8
   EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
   EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
   EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
