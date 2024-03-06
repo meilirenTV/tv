@@ -2017,6 +2017,9 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 美女蹦迪a,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clt4kcrc77u2qhihanig&ratio=720p&line=0
 美女蹦迪A,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
 美女蹦迪B,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
+美女蹦迪c,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cn50k1jc77u2g58h0gh0&ratio=720p&line=0
+美女蹦迪d,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnhfltbc77ub8ntd2210&ratio=720p&line=0
+美女蹦迪e,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnjh8fbc77u8vu97gu30&ratio=720p&line=0
 美女蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
 美女蹦迪0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000claacs3c77u8feoa0hf0&ratio=720p&line=0
 美女蹦迪1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck862fjc77uahikf29pg&ratio=720p&line=0
