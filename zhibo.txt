@@ -3,6 +3,40 @@
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
 
+📺央视备用,#genre#
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
 
 📺全球频道,#genre#
 
@@ -11,8 +45,7 @@
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
   亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
   中國環球,http://live.cgtn.com/500/prog_index.m3u8
-  华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-  华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+  
   NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
   CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
   半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -585,10 +618,7 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
   重庆卫视,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
 
 📺4K测试,#genre#
-CCTV1-4k,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
-  CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-  CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-  CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+
   黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 纯享4K.备用,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 CCTV16-4K.备用,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -1798,13 +1828,24 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
-美女蹦迪a,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clt4kcrc77u2qhihanig&ratio=720p&line=0
-美女蹦迪A,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
-美女蹦迪B,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
-美女蹦迪c,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cn50k1jc77u2g58h0gh0&ratio=720p&line=0
-美女蹦迪d,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnhfltbc77ub8ntd2210&ratio=720p&line=0
-美女蹦迪e,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnjh8fbc77u8vu97gu30&ratio=720p&line=0
-美女蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
+美女蹦迪a,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmei5t3c77u7g5gdeva0&ratio=720p&line=0
+美女蹦迪b,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmvi16rc77u51n2rprq0&ratio=720p&line=0
+美女蹦迪c,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co3ccprc77u64qbig660&ratio=720p&line=0
+美女蹦迪d,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cng4arrc77ub5vuoqm8g&ratio=720p&line=0
+美女蹦迪e,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnmr9g3c77uf9opqmpog&ratio=720p&line=0
+美女蹦迪f,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnopjdrc77u1te1iio6g&ratio=720p&line=0
+美女蹦迪j,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnv3v33c77u0obf7vkl0&ratio=720p&line=0
+美女蹦迪g,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000co39rhrc77uefp39udl0&ratio=720p&line=0
+美女蹦迪k,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000co5t3qjc77ubcn5tbv20&ratio=720p&line=0
+美女蹦迪h,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnnoltrc77udl8a0o3ig&ratio=720p&line=0
+美女蹦迪l,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000clt4kcrc77u2qhihanig&ratio=720p&line=0
+美女蹦迪z,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnsm0krc77uaraoef0cg&ratio=720p&line=0
+美女蹦迪q,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cm3b1abc77uamm37cjd0&ratio=720p&line=0
+美女蹦迪w,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cmapnk3c77u6oa1qd3u0&ratio=720p&line=0
+美女蹦迪t,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cn50k1jc77u2g58h0gh0&ratio=720p&line=0
+美女蹦迪y,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnhfltbc77ub8ntd2210&ratio=720p&line=0
+美女蹦迪u,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnjh8fbc77u8vu97gu30&ratio=720p&line=0
+美女蹦迪i,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ckofal3c77ufoh2mbni0&ratio=720p&line=0
 美女蹦迪0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000claacs3c77u8feoa0hf0&ratio=720p&line=0
 美女蹦迪1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000ck862fjc77uahikf29pg&ratio=720p&line=0
 美女蹦迪2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cklhg63c77u0oo98nb80&ratio=720p&line=0
@@ -1866,5 +1907,5 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 抖音歌曲连唱47,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
 
 抖音歌曲连唱48,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
-抖音歌曲连唱49,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
+
 
