@@ -14,21 +14,34 @@
 "wallpaper":"https://gitlab.com/meoliren/tv/-/raw/main/1647417832005ckt_img.png",
 "sites":
  [{"key":"魅力人","name":"本影视软件有(魅力人)长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
-{"key":"csp_77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/XYQ.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"},  
-     
-    {"key":"酷看","name":"😎┃酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
+{"key":"南瓜","name":"🎃瓜瓜┃TV┃App","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"}, 
+            {"key": "T4-mingri",
+            "name": "明日看片子",
+            "type": 4,
+            "api": "https://catbox.n13.club/mingri.php"},
 
-{"key":"玩偶","name":"魅力哥哥 玩偶影视4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711961533153/fan.txt;md5;bf396915202c1507f1f4d24d62c9a606"},
-{"key":"csp_Panda_玩偶哥哥","name":"👲┃玩偶┃影视","api":"csp_Wogg","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt","jar":"http://happy.xn--z7x900a.live/jar/PandaQ240318.jar;md5;5b59d2999497d6e0c1eb256bcd77f2c7"},
+{"key":"mingriyingshi","name":"☀️明日┃影视┃App","type":3,"api":"csp_WexMingriys","searchable":1,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"},
+
+{"key": "T4-IKTV",
+            "name": "IKTV歌曲MV",
+            "type": 4,
+            "api": "https://catbox.n13.club/iktv.php"},
+
+{"key":"csp_77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/XYQ.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"},  
+ {"key":"Kuyun77","name":"7️⃣小七┃影视┃App","type":3,"api":"csp_WexKuyun77","searchable":1,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"},  
+{"key": "🔥码上看大师兄", "name":"🔥码上看大师兄","type": 3, "api":"./sites/码上/merge.min.js","searchable":1, "playerType":2, "quickSearch":1, "filterable":1,"ext":"./sites/码上/dsx.js","jar": "./custom_spider_20240330-213442.tms;md5;ed134967d8474672304258f6edb03f13"},   
+    {"key":"酷看","name":"😎┃酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24"},
+
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711961533153/fan.txt;md5;bf396915202c1507f1f4d24d62c9a606"},
  {"key":"南瓜","name":"魅力哥哥 南瓜影视","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
  {"key":"畅梦影视","name":"🎄畅梦┃影视","type":3,"api":"http://1.v.nxog.top/m/js/nxog.js","ext":"http://1.v.nxog.top/m/js/103.js"},
- {"key": "77", "name": "魅力哥哥 七七影视", "type": 3, "api": "csp_Kunyu77", "timeout": 15, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://atomgit.com/meiliren/tv/raw/master/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"},
+ 
  {"key":"腾","name":"🎄腾腾┃影视","type":3,"api":"http://1.v.nxog.top/m/js/nxog.js","ext":"https://gitlab.com/meoliren/tv/-/raw/main/tt.js","jar":"http://1.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"},
 {"key":"优","name":"🎄优优┃影视","type":3,"api":"http://1.v.nxog.top/m/js/nxog.js","ext":"http://1.v.nxog.top/m/js/yy.js","jar":"http://1.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"},
  {"key":"厂长","name":"厂长┃影视","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy77.com/","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
 
-     {"key":"csp_freeok","name":"👑夜猫菲克👑","type":3,"jar":"https://atomgit.com/meiliren/tv/raw/master/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},     
+        
  {"key":"看看","name":"看看┃App","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Wexconfig","name":"🐮配置┃中心🐮","type":3,"api":"csp_Wexconfig","searchable":0,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"},  
   
@@ -302,9 +315,13 @@
     "header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 
 {"name":"🌎DB","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"二","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
+{"name":"小","type":1,"url":"http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="},
+{"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
+
 
 {"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
-{"name":"二","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
+
 {
 			"name": "春盈爱酷🌾",
 			"type": 1,
