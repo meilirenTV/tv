@@ -1687,6 +1687,8 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 
 📺DJ歌专线,#genre#
+
+DJ劲爆唢呐,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co8ho8rc77u07192qlo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 🏃就算悲伤结局,https://vd2.bdstatic.com/mda-pkmzzraztcsjvngm/576p/h264/1700697797850956432/mda-pkmzzraztcsjvngm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1702291641-0-0-aa2a3debce9dfa2441cdef20aff944e3&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2841268261&vid=6164697042931955706&abtest=all
 💃DJ要爱你就来,https://vd4.bdstatic.com/mda-keb0fy2xswb3fkm7/hd/mda-keb0fy2xswb3fkm7.mp4?auth_key=1702279012-0-0-247d754019ec2bbb6ee56221e3990824&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1012802986&vid=13384379351327064092&abtest=all
 👿DJ你是我永远的痛,https://vd2.bdstatic.com/mda-mev5ckbkjn42ej8r/576p/cae_h264/1652556134051661190/mda-mev5ckbkjn42ej8r.mp4?auth_key=1702278889-0-0-d3d3182ccab0811bb3f0acefb4d16272&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0889614783&vid=11677703834186717253&abtest=all
@@ -1828,6 +1830,26 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
+DJ蹦迪1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnkrl33c77u2tflvces0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co90iabc77u94p7etbjg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co8u40rc77u49cffp3gg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪4,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coc4vorc77u1q026ch80&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪5,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmu74qbc77u4e67ucu2g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪6,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co6g7grc77ueo1shnm8g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪7,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnrhacbc77u3uvjr2p10&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000co4os43c77uasua1pelg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnl2863c77u815so9ddg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnk3qr3c77ubub2bi8lg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪11,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnlp1erc77u2f11ofilg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪12,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnsmjvjc77ue4318frv0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co1uvubc77ub0ug91lgg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪14,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co2jrrrc77u4et7inlpg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪15,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co3u88bc77udb642i6sg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪16,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co6ic0rc77u7atu4jc9g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪17,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000coa8283c77uc5nfrsi30&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪18,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnhfjijc77u723c2lob0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪19,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnc9shjc77uelhja8oqg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪20,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cn5jspbc77u82dkaksvg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 美女蹦迪a,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmei5t3c77u7g5gdeva0&ratio=720p&line=0
 美女蹦迪b,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cmvi16rc77u51n2rprq0&ratio=720p&line=0
 美女蹦迪c,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co3ccprc77u64qbig660&ratio=720p&line=0
