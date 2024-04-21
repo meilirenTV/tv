@@ -363,7 +363,13 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
 📺电影专区,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+人民频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
+CHC动作ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+CHC高清ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
+CHC,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
 CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
 CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
