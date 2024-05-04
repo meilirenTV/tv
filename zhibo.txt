@@ -600,6 +600,10 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
+DJ蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cohq69bc77ub19kf0450&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000conql9rc77u22ih0sh10&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪07,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000col668jc77u8uk1ublo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname#https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cofqm13c77u4n78ghvtg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
+DJ蹦迪06,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cop0llbc77ubkfdovoi0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪05,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cokff7jc77u6ecpklrig&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪04,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cobvo6bc77ub4o1jn9p0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪03,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000codnbsbc77u2r75slet0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
