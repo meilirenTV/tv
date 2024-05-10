@@ -457,7 +457,8 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 
 📺DJ歌专线,#genre#
-DJ红唇,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cotbhl3c77uasaumm520&ratio=720p&line=0
+💁DJ一生最爱的人就是你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnhh1o7og65ukdntqoo0&ratio=720p&line=0
+🎅DJ红唇,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cotbhl3c77uasaumm520&ratio=720p&line=0
 🌷DJ劲爆唢呐,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co8ho8rc77u07192qlo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 🌹恒大歌舞团,https://vdse.bdstatic.com//3251671626c8621683d7c7ecc9956c42.mp4
 🏃就算悲伤结局,https://vd2.bdstatic.com/mda-pkmzzraztcsjvngm/576p/h264/1700697797850956432/mda-pkmzzraztcsjvngm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1702291641-0-0-aa2a3debce9dfa2441cdef20aff944e3&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2841268261&vid=6164697042931955706&abtest=all
