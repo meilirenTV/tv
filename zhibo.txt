@@ -1,4 +1,4 @@
-📺打赏频道,#genre#
+📺打赏频道
 打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/21/13/BMjAyNDAyMjExMzU3MTNfMjU2Mjk5MDc1NF8xMjU1NTA3MTk0ODdfMl8z_b_B3f56cd83b98b013717dea5ffdb0f8c7a.mp4?tag=1-1708495188-unknown-0-3brstzpt5h-861021e10d31e4a9&clientCacheKey=3xwx2a37b3ti4jc_b.mp4&di=78cf8d20&bp=10000&tt=b&ss=vp#https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
@@ -39,7 +39,7 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-📺网通多线,#genre#  
+#📺网通多线/
   CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
   CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
   CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
@@ -365,6 +365,7 @@ NewTV中国功夫,http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 📺电影专区,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 人民频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 
 CHC动作ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC高清ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
@@ -456,7 +457,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 
 📺DJ歌专线,#genre#
-
+DJ红唇,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cotbhl3c77uasaumm520&ratio=720p&line=0
 🌷DJ劲爆唢呐,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co8ho8rc77u07192qlo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 🌹恒大歌舞团,https://vdse.bdstatic.com//3251671626c8621683d7c7ecc9956c42.mp4
 🏃就算悲伤结局,https://vd2.bdstatic.com/mda-pkmzzraztcsjvngm/576p/h264/1700697797850956432/mda-pkmzzraztcsjvngm.mp4?v_from_s=hkapp-haokan-hbf&auth_key=1702291641-0-0-aa2a3debce9dfa2441cdef20aff944e3&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=2841268261&vid=6164697042931955706&abtest=all
@@ -599,7 +600,14 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 
-📺测试抖音,#genre#
+📺测试抖音
+DJ蹦迪16,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coufv4jc77u49nm9eim0&ratio=720p&line=0
+DJ蹦迪15,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coi3sdbc77u10p056np0&ratio=720p&line=0
+DJ蹦迪14,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnc6q7jc77u34h279s4g&ratio=720p&line=0
+DJ蹦迪13,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000corl6i3c77u5ouac1dfg&ratio=720p&line=0
+DJ蹦迪12,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000corl6mjc77u0ut0haoa0&ratio=720p&line=0
+DJ蹦迪11,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cols2ujc77udf5lemes0&ratio=720p&line=0
+DJ蹦迪10,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coqcmdbc77u3n58dut2g&ratio=720p&line=0
 DJ蹦迪9,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cohq69bc77ub19kf0450&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪8,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000conql9rc77u22ih0sh10&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪07,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000col668jc77u8uk1ublo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname#https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cofqm13c77u4n78ghvtg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
