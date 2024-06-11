@@ -602,6 +602,8 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
+DJ蹦迪18,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpasv6fog65rkb50qgcg&ratio=720p&line=0
+DJ蹦迪17,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cp9lpq7og65qo231ab30&ratio=720p&line=0
 DJ蹦迪16,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coufv4jc77u49nm9eim0&ratio=720p&line=0
 DJ蹦迪15,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000coi3sdbc77u10p056np0&ratio=720p&line=0
 DJ蹦迪14,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cnc6q7jc77u34h279s4g&ratio=720p&line=0
