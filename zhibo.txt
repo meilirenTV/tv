@@ -20,7 +20,7 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
+CCTV-18高清,https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
 CCTV-01,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV-02,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV-03,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 
@@ -170,6 +170,7 @@ CGTN纪录(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/i
 中国教育2(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8 
 中国教育4(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8 
 东南卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8 
+
 东方卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8 
 吉林卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8 
 天津卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8 
@@ -426,6 +427,9 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 经典重温,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D 
 人民频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
+CHC动作电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
+
+CHC影迷电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 CHC家庭影院HD,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影HD,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC高清电影HD,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -508,6 +512,9 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 
 📺DJ歌专线,#genre#
+👯好听歌曲2,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
+
+😉好听歌曲1,https://vdse.bdstatic.com//b01518813ef433f63d7e17fd6bcbb5eb.mp4
 💁DJ一生最爱的人就是你,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnhh1o7og65ukdntqoo0&ratio=720p&line=0
 🎅DJ红唇,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cotbhl3c77uasaumm520&ratio=720p&line=0
 🌷DJ劲爆唢呐,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000co8ho8rc77u07192qlo0&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
