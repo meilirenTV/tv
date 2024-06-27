@@ -1,19 +1,16 @@
 {
-//"spider":"http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
+"蜘蛛":" https://git lab .com/meoliren/TV/-/raw/main/fty .罐子；MD 5 ea 7420 e 94730 DC 6c 355347 BF 077 ccc4a”，
+"生活":[
+{ "姓名":"魅力人直播" 、"类型":0 、" URL ":" https://git lab。com/meoliren/TV/-/raw/main/zhibo。txt " 、" playerType":1 、" ua": "okhttp/3.15 " 、" EPG ":" https://DIY p 8.112114。XYZ/？ch={name}&date={date}，“logo”:“https://DIY p 8.112114。XYZ/logo/{ name } .png"}，
+{ "姓名":"魅力人IPTV1 "，" type":0，" URL ":" https://GH proxy。net/https://raw。githubusercontent。com/Meili rentv/TV/main/智博。txt "，" playerType":1，" ua": "okhttp/3.15 "，" EPG ":" https://DIY p 8.112114。XYZ/？ch={name}&date={date}，“logo”:“https://EPG。112114 .XYZ/logo/{ name }。png " }，
 
-  //"spider":"./fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
- "spider":"https://gitlab.com/meoliren/tv/-/raw/main/fty.jar;md5;ea7420e94730dc6c355347bf077ccc4a",
-"lives":[
-{"name":"魅力人直播","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt", "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp8.112114.xyz/logo/{name}.png"},
-{"name":"魅力人IPTV1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-
-{"name":"魅力人IPTV2","type":0,"url":"http://atomgit.com/meiliren/tv/raw/master/zhibo.txt",
- "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{ "姓名":"魅力人IPTV2 "类型":0，" URL ":" http://atom git .com/美丽人/TV/raw/master/智博. txt”，
+「玩家类型」:1、「ua」:「ok http/3.15」、「EPG」:「https://DIY p 8.112114 .XYZ/？ch={name}&date={date}，" logo":"https://EPG .112114 .XYZ/logo/{ name }。png"}
 ],                  
-"wallpaper":"https://gitlab.com/meoliren/tv/-/raw/main/1647417832005ckt_img.png",
-"sites":
+「壁纸」:(「https://git lab。com/meoliren/TV/-/raw/main/1647417832005 CKT _ img。png】，
+“站点”:
  [{"key":"魅力人","name":"本影视软件有(魅力人)长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
- {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+ {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k auto fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
    {"key":"360资源","name":"魅力人 360资源","type":"0","api":"https://360zy.com/api.php/seaxml/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]},	
 	{"key":"360资源2","name":"魅力人 360资源2","type":"0","api":"https://360zy.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]},	   
 
@@ -43,9 +40,9 @@
 
 {"key":"天天",
 "name":"天天┃App",
-"type":3,"api":"csp_TTian",
-"playerType":1,
-"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"http://ftp6295638.host108.abeiyun.cn/tvbox/jar/pg.jar"},
+“类型”:3、“API”:“CSP _ TTian”，
+【player type】:1、
+" ext ":" http://op . ysd qjs . cn $ $ $ null $ $ $ 1 "，" jar ":" http://FTP 6295638 . host 108 . abei yun . cn/TV box/jar/pg . jar " }，
 
 
   {
@@ -341,16 +338,16 @@
   {"name": "☯️自动解析聚合",
   "type":3,
   "url":"Demo"},
-{"name":"🌎肥猫宝贝","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}, 
-{"name":"🌎米饭","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{ "姓名":"🌎肥猫宝贝》、《类型》:1、《网址》:“http://json.84jia.com/home/api？type = ys & uid = 335253 & key = demprsyzbmqrvy 0234 & URL = " " ext ":{ " flag ":[" QQ "，"腾讯”，“齐一”爱奇艺","奇艺》、《优酷》、“优酷”，“土城”，“搜狐”，“搜狐、“乐视”乐视“mgtv”芒果"、" tnmb "、" seven "、" yzm "、"阿里云"、" RJuMao "、"哔哩哔哩"、" 1905 "、"辛维普"、" XAL "、"奇奇"、" XALS "、"米语-vip"]}、
+{ "姓名":"🌎米饭》、《类型》:1、《网址》:“http://json.84jia.com/home/api？type = ys & uid = 24462983 & key = gkrswxzbcglmrwz 027 & URL = " " ext ":{ " flag ":["爱奇艺","奇艺”、“qq”腾讯》、《优酷》、“优酷》、《pptv》、《PPTV》、《乐视》、“乐视”、“施乐”、“哔哩哔哩”哔哩哔哩","哔哩“mgtv”芒果","芒果"]，" header ":{ " User-Agent ":" ok http/4 . 1 . 0 " } }，
 {
-      "name": "🌎小鱼",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=162970&key=bghjkmnrszEGIMNRW4&url="
+"名称": "🌎小鱼",
+【类型】:1、
+【网址】:"http://json.84jia.com/home/api？type = ys & uid = 162970 & key = bghjkmnrszegimnrw 4 & URL = "
     },
    
 
-  {"name":"🌎云解析",
+{ "姓名":"🌎云解析",
   "type":1,
   "url":"http://119.91.123.253:2345/Api/yun.php?url=",
   "ext":{
