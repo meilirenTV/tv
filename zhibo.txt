@@ -1,7 +1,27 @@
-📺打赏频道,#genre#
+📺{CCTV}打赏频道,#genre#
 打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/21/13/BMjAyNDAyMjExMzU3MTNfMjU2Mjk5MDc1NF8xMjU1NTA3MTk0ODdfMl8z_b_B3f56cd83b98b013717dea5ffdb0f8c7a.mp4?tag=1-1708495188-unknown-0-3brstzpt5h-861021e10d31e4a9&clientCacheKey=3xwx2a37b3ti4jc_b.mp4&di=78cf8d20&bp=10000&tt=b&ss=vp#https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
+CCTV1综合,http://player.200877926.top/169l/0/migu.php?id=cctv1
+CCTV2财经,http://player.200877926.top/169l/0/migu.php?id=cctv2
+CCTV3综艺,http://player.200877926.top/169l/0/migu.php?id=cctv3
+CCTV4中文国际,http://player.200877926.top/169l/0/migu.php?id=cctv4
+CCTV4美洲,http://player.200877926.top/169l/0/migu.php?id=cctv4a
+CCTV4欧洲,http://player.200877926.top/169l/0/migu.php?id=cctv4o
+CCTV5体育,http://player.200877926.top/169l/0/migu.php?id=cctv5
+CCTV5+体育赛事,http://player.200877926.top/169l/0/migu.php?id=cctv5p
+CCTV6电影,http://player.200877926.top/169l/0/migu.php?id=cctv6
+CCTV7国防军事,http://player.200877926.top/169l/0/migu.php?id=cctv7
+CCTV8电视剧,http://player.200877926.top/169l/0/migu.php?id=cctv8
+CCTV9纪录,http://player.200877926.top/169l/0/migu.php?id=cctv9
+CCTV10科教,http://player.200877926.top/169l/0/migu.php?id=cctv10
+CCTV11戏曲,http://player.200877926.top/169l/0/migu.php?id=cctv11
+CCTV12社会与法,http://player.200877926.top/169l/0/migu.php?id=cctv12
+CCTV13新闻,http://player.200877926.top/169l/0/migu.php?id=cctv13
+CCTV14少儿,http://player.200877926.top/169l/0/migu.php?id=cctv14
+CCTV15音乐,http://player.200877926.top/169l/0/migu.php?id=cctv15
+CCTV17农业农村,http://player.200877926.top/169l/0/migu.php?id=cctv17
+
 CCTV-01,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-02,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-03,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -321,8 +341,10 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 📺电影专区,#genre#
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
+重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
+重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass
+重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
 经典重温,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D 
 人民频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 CHC动作电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
