@@ -174,11 +174,13 @@ CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=
   CCTV5,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
   CCTV5+,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3
   CCTV5+,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-  
+ CCTV6,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3 
+CCTV6,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3 
   CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
   CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
   CCTV6,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225495/index.m3u8
-  CCTV7,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225496/index.m3u8
+  CCTV6高清,http://113.251.230.89:7788/rtp/235.254.198.55:1496
+  CCTV7,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3
   CCTV8,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
   CCTV9,http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
   CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
@@ -192,8 +194,20 @@ CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=
   CCTV16,http://gslbservzqhsw.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
   CCTV16,http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
   CCTV17,http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3
- 
+  CCTV-6,http://120.224.178.16:9901/tsfile/live/0006_1.m3u8
+ CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+ CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+ CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+08-14-2024 checked
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHCO-TV,https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
   CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8#https://livedoc.cgtn.com/500d/prog_index.m3u8
+  民视,http://37.27.111.214:8080/live/6/hls.m3u8
+  东森1,http://37.27.111.214:8080/live/20/hls.m3u8
+  东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+  东森,http://211.72.65.236:8540/.m3u8
+  香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
   CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
   CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
   CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -330,15 +344,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 
 经典重温,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D 
-星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT
 
-凤凰电影,http://117.114.153.1:8180/TV00000000000000000072@HHZT
-STARmovies,http://117.114.153.1:8180/TV00000000000000000075@HHZT
-axn电影,http://117.114.153.1:8180/TV00000000000000000076@HHZT
-CINEMAX电影,http://117.114.153.1:8180/TV00000000000000000109@HHZT
-HBO（美）,http://117.114.153.1:8180/TV00000000000000000074@HHZT
-NBA TV2,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV1/hls.m3u8
 CCTV2HD,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
@@ -349,14 +355,7 @@ CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 CHC动作电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
 
 CHC影迷电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
-CHC家庭影院HD,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影HD,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC高清电影HD,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-CHC动作ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
-CHC高清ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-CHC家庭ipv6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 
 
   4k修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
