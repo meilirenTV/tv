@@ -4,15 +4,6 @@
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
 点歌台,http://zzy789.xyz/douyu1.php?id=3186217
 环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-复仇长官第01集$,https://ukzy.ukubf8.com/share/w8dr5vKjeo2Vu3Ps$ukyun
-第02集$,https://ukzy.ukubf8.com/share/RKqJBvfp0bC7OgpR$ukyun
-第03集$,https://ukzy.ukubf8.com/share/4aOtrsnqkmRucsuh$ukyun
-第04集$,https://ukzy.ukubf8.com/share/sMnwjWL52j1tz9wD$ukyun
-720P$,https://ukzy.ukubf3.com/20240810/47hro61u/index.m3u8$ukm3u8
-第01集$,https://ukzy.ukubf8.com/20240807/QtDrnSU0/index.m3u8$ukm3u8
-第02集$,https://ukzy.ukubf8.com/20240807/E87s22fM/index.m3u8$ukm3u8
-第03集$,https://ukzy.ukubf8.com/20240807/UeIt2oRB/index.m3u8$ukm3u8
-第04集$,https://ukzy.ukubf8.com/20240815/Vqsnnz4Q/index.m3u8$ukm3u8
 CCTV-18高清,https://vd3.bdstatic.com/mda-pe09yr9r30wbxc6f/720p/h264/1682924667761123043/mda-pe09yr9r30wbxc6f.mp4
 
 CCTV-01,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
@@ -32,6 +23,24 @@ CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8 
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+民视,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://37.27.111.214:8080/live/6/hls.m3u8
+民视星闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+寰宇新闻台,https://test.zapi.us.kg/?id=global-news
+壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
+東森電影,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+中视1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
+
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+
+中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
+
+中视青采,http://37.27.111.214:8080/live/48/hls.m3u8
+
+中视新闻,https://test.zapi.us.kg/?id=ctv-news
+
 📺咪咕线路,#genre#
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
@@ -286,11 +295,7 @@ CCTV6,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265006/1.m3u8?channel-id=
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 CHCO-TV,https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
   CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8#https://livedoc.cgtn.com/500d/prog_index.m3u8
-  民视,http://37.27.111.214:8080/live/6/hls.m3u8
-  东森1,http://37.27.111.214:8080/live/20/hls.m3u8
-  东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
-  东森,http://211.72.65.236:8540/.m3u8
-  香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+ 
   CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
   CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
   CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
