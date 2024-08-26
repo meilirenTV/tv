@@ -215,7 +215,7 @@ CGTN纪录(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/i
 欢乐剧场(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8 
 黑莓电影(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8 
 新闻综合(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8 
-动作电影卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8 
+动作专线卫视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8 
 哈尔滨影视(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8 
 哈尔滨生活(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8 
 哈尔滨新闻综合(IPV6),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8 
@@ -428,9 +428,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 📺电影专区,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-重温经典,http://117.114.153.1:8180/TV00000000000000000007@HHZT
 
-重温经典,http://36.108.172.237:10005/stream/channelid/1658622386?ticket=cee7f3f6fd238a746e4e7a2b018ee411947ffe3d&profile=pass
 重温经典,http://36.108.172.237:10097/stream/channelid/1129822714
 
 经典重温,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D 
@@ -443,14 +441,41 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
-CHC动作电影,http://fxgm.fxjf.work:19901/tsfile/live/1015_1.m3u8
-CHC家庭影院,http://fxgm.fxjf.work:19901/tsfile/live/1014_1.m3u8
-CHC高清电影,http://fxgm.fxjf.work:19901/tsfile/live/1016_1.m3u8
+CHC家庭影院,http://video.qd.sdu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+08-26-2024 Hebei checked •1024x576 ￼
+CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+08-26-2024 Anhui checked •1024x576 ￼
+CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+08-26-2024 Anhui checked •1920x1080 ￼
+CHC家庭影院,http://171.116.190.8:8082/rtp/226.0.2.240:9820
+08-26-2024 Henan checked •1920x1080 ￼
+CHC动作电影,http://118.81.226.58:8084/rtp/226.0.2.94:8012
+08-26-2024 Liaoning checked •1920x1080 ￼￼
+CHC家庭影院,http://118.81.28.22:8084/rtp/226.0.2.240:9820
+08-26-2024 Liaoning checked •1920x1080 ￼￼
+CHC高清电影,http://tv6.blcu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/a51d115379-0-0-2d3f80b098bcb9a30d9368695375926f/index.m3u8
+08-25-2024 Hunan checked •1920x1080 ￼
+CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
+08-25-2024 Liaoning checked •1920x1080 ￼
+CHC高清电影,http://171.116.190.8:8082/rtp/226.0.2.93:8004
+08-25-2024 Tianjin checked •1920x1080
+CHC高清电影,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
+08-24-2024 Hunan checked •1280x720 ￼￼
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+08-23-2024 Fujian checked •1920x1080 ￼
+￼
+CHC动作电影,https://test.zapi.us.kg/?id=chc-dzdy
+08-21-2024 Fujian checked •960x540 ￼
+CHC家庭影院,http://171.116.99.219:8085/rtp/226.0.2.240:9820
+08-20-2024 Fujian checked •1920x1080 ￼￼
+CHC动作电影,http://112.255.221.27:1025/udp/239.253.254.153:8000
+08-19-2024 Shandong checked •1920x1080
+CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+08-18-2024 Hebei checked •1920x1080 ￼￼
+
+
 
 人民频道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
-CHC动作电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.180:6000
-
-CHC影迷电影 流畅,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 
 
 
