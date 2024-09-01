@@ -27,10 +27,10 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 民视新闻,http://37.27.111.214:8080/live/6/hls.m3u8
 民视星闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8542/.m3u8
 東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
+
 寰宇新闻台,https://test.zapi.us.kg/?id=global-news
 壹新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8548/.m3u8
-東森電影,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+
 中视1,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8502/.m3u8
 
 中视,http://37.27.111.214:8080/live/7/hls.m3u8
