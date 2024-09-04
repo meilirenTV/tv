@@ -1,5 +1,9 @@
 {
   "urls": [
+  {
+      "url": "https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "name": "魅力人VIP影视"
+    }, 
     {
       "url": "https://gitcode.net/mlrz/meiliren/-/raw/master/mc.txt",
       "name": "魅力人VIP影视1"
@@ -9,12 +13,12 @@
       "name": "魅力人VIP影视2"
     }, 
     {
-      "url": "https://jihulab.com/meiliren/tv/-/raw/main/ys.txt",
-      "name": "魅力人VIP影视3"
+      "url": "https://m.n13.club/",
+      "name": "魅力人老牛线路"
     },  
     {
-      "url": "https://pastebin.com/raw/Q8RyYLvU",
-      "name": "魅力人影视VIP线4"
+      "url": "http://suo.im/cctv",
+      "name": "魅力人mc影视"
     },
     
     {
@@ -35,7 +39,7 @@
   
    
     {
-      "url": "http://饭太硬.top/tv",
+      "url": "http://饭太硬.com/tv",
       "name": "🚀饭硬专线"
     },
     {
@@ -149,7 +153,17 @@
     {
       "url": "http://tvkj.top/动漫频道/api.json",
       "name": "🚀动漫频道"
-    }
+    },
+ {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json","name":"黄1"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"黄2"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/19.json","name":"黄3"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/juyou.json","name":"黄4"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json","name":"黄5"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/js.json","name":"黄6"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox.json","name":"黄7"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/tv/main/11.json","name":"黄8"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/19.json","name":"黄9"},
+{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json","name":"黄10"}  
   ]
 }
 
