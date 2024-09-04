@@ -1,7 +1,7 @@
 {
   "urls": [
   {
-      "url": "https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/meilirenTV/tv/main/mc.txt",
       "name": "魅力人VIP影视"
     }, 
     {
