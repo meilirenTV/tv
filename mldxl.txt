@@ -1,11 +1,11 @@
 {
   "urls": [
   {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/meilirenTV/tv/main/mc.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/main/mc.txt",
       "name": "魅力人VIP影视"
     }, 
     {
-      "url": "https://gitcode.net/mlrz/meiliren/-/raw/master/mc.txt",
+      "url":"https://gitcode.net/mlrz/meiliren/-/raw/master/mc.txt",
       "name": "魅力人VIP影视1"
     }, 
   {
