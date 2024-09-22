@@ -36,15 +36,10 @@
    
   
  {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
- 
+ {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL29wLnlzZHFqcy5jbg==","jar":"http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"},
 
 
 
-{"key":"天天",
-"name":"天天┃App",
-"type":3,"api":"csp_TTian",
-"playerType":1,
-"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"http://ftp6295638.host108.abeiyun.cn/tvbox/jar/pg.jar"},
 
 
   {
@@ -58,14 +53,7 @@
     },   
 
 
-
-
-
-       
-        
-
-
-
+              
 {
             "key": "热播",
             "name": "热播┃App",
