@@ -523,8 +523,7 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 江苏经典流行音乐廣播,http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
 
 📺DJ歌专线,#genre#
-🍎苹果香,https://vd4.bdstatic.com/mda-qhjfb6d1pfn77f20/576p/h264/1724151013919573660/mda-qhjfb6d1pfn77f20.mp4?auth_key=1729866424-0-0-5bcf726cfcbf48e6fec4cb9ad0df70aa&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1624389256&vid=5598855531230268752&abtest=all
-🍎DJ苹果香,https://vd2.bdstatic.com/mda-qgkfc3vpdvnu6n43/hd/cae_h264/1721605683872311133/mda-qgkfc3vpdvnu6n43.mp4?auth_key=1729866240-0-0-e2ee8fa952795f31c16be096b534840b&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=1440173386&vid=340474666119437546&abtest=all
+🍎苹果香DJ,https://alimov2.a.kwimgs.com/upic/2024/11/25/20/BMjAyNDExMjUyMDA3MDBfMjU2Mjk5MDc1NF8xNDk1NjAzNDY5MTdfMl8z_b_B16646775440eab11d01444eae373ea0b.mp4?clientCacheKey=3xnd28fq2c5rdf2_b.mp4&tt=b&di=b7c83862&bp=10000
 😁叶倩文-潇洒走一回,https://vd4.bdstatic.com/mda-ndvid47wrxc1aay2/sc/cae_h264_delogo/1651329221927202288/mda-ndvid47wrxc1aay2.mp4
 👯好听歌曲2,https://vd3.bdstatic.com/mda-nau8s6nsyj96mffw/480p/h264_delogo/1643441061627872991/mda-nau8s6nsyj96mffw.mp4
 
@@ -674,6 +673,8 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 
 
 📺测试抖音,#genre#
+
+苹果香,https://v5-luna.douyinvod.com/dc0cea4ef3ed28406f0a6b87f9154339/6745c67e/video/tos/cn/tos-cn-ve-15/okFA7YFJ8IDSmeQAicdgfjE0nnEN9iyADxV4iB/?a=8478&ch=0&cr=0&dr=0&cd=0%7C0%7C0%7C0&cv=1&br=1494&bt=1494&cs=0&ds=2&ft=V79LgMT8RR0sTKC1-DW2Nc.xBiGNbLi3nt1U_47UyRcJNv7TGW&mime_type=video_mp4&qs=0&rc=NjZoNTY1OTQ0M2dpM2ZkZkBpM3ZlO3g5cjxydjMzNGkzM0BeYDI0LTZgNmMxYmMtYDBiYSNia3JuMmRrZWdgLS1kLTBzcw%3D%3D&btag=c0000e00030000&dy_q=1732535775&feature_id=aa7df520beeae8e397df15f38df0454c&l=202411251956149CB92179FB068F17A8BC
 DJ蹦迪女,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000cspi2f7og65n1umq8mvg&ratio=720p&line=0
 DJ蹦迪,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000cftdojrc77u4ta5ekt5g&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
 DJ蹦迪0,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cob8ghjc77ufvup79hsg&ratio=720p&line=0&logo_name=aweme_search_suffix_nickname
