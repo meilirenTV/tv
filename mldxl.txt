@@ -12,7 +12,7 @@
       "name": "魅力人影视测试3"
     }, 
    {
-      "url": "https://gh.llkk.cc/https://github.com/meilirenTV/tv/refs/heads/main/mc.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
       "name": "魅力人影视测试4"
     },  
   {
