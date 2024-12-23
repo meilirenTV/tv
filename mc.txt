@@ -51,12 +51,12 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
 		},
+		
 {
 			"key": "csp_UC",
-			"name": "【4K】魅力人影视大全",
+			"name": "【UC4K】魅力人影视大全",
 			"type": 3,
-			"api": "csp_MiUc",
-			"changeable": 0,
+			"api": "csp_Duopan",
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
@@ -64,13 +64,18 @@
 					"http://ucmi.fun",
 					"http://www.ucmi.fun"
 				],
-				"url_key": "MiUc",
+				"url_key": "UC",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
 				"threadinfo": {
 					"chunksize": 450,
-					"threads": 10
+					"threads": 12
 				}
 			}
-		}, 
+		},
+
+		
  {"key":"暴风资源","name":"【爆风】魅力人影视大全","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},  
  {
 			"key": "csp_Wwys",
@@ -329,18 +334,18 @@
       "timeout": 10
     }, 
 {"key":"厂长","name":"【厂长】魅力人影视大全","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730501203549/fan.txt;md5;a889982d5efe39d65ff9f81559fa2f87"},  
-{"key":"醉挽清风","name":"醉挽清风","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"},
+{"key":"醉挽清风","name":"【醉挽清风】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"},
 		
   {
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾讯视频",
+			"name": "【腾讯视频】魅力人影视大全",
 			"type": 3,
 			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",			
 			"ext": "https://gitee.com/charming-person/tv/raw/master/txsp.txt"},
    
   	{
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "🐧腾腾┃1080P",
+			"name": "【腾腾1080P】魅力人影视大全",
 			"type": 3,
 			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -351,7 +356,7 @@
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
 		},  
     
- {"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
+ {"key":"drpy_js_奇珍异兽","name":"【爱奇艺】魅力人影视大全","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 
 
 
@@ -359,7 +364,7 @@
 
 		{
 			"key": "guoguo",
-			"name": "芒果影视",
+			"name": "【芒果】魅力人影视大全",
 			"type": 3,
 			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",			
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
@@ -367,13 +372,13 @@
 
 
   { "key": "优酷",
-      "name": "优酷影视",
+      "name": "【优酷】魅力人影视大全",
       "type": 3,
       "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
       
  {  "key": "4K在线看",
-      "name": "拾光☪4Kav",
+      "name": "【4Kav】魅力人影视大全",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -446,7 +451,7 @@
 },
   {
       "key": "拾光☪4KTV",
-      "name": "拾光☪4KTV",
+      "name": "【☪4KTV】魅力人影视大全",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -501,7 +506,7 @@
 
  {
 			"key": "csp_良人",
-			"name": "👨良人┃1080P",
+			"name": "【良人】魅力人影视大全",
 			"type": 3,
 			"quickSearch": 0,
 			"api": "csp_MiTuApp",
@@ -509,7 +514,7 @@
 		},
 		{
 			"key": "csp_麻花",
-			"name": "🥙麻花┃1080P",
+			"name": "【麻花】魅力人影视大全",
 			"type": 3,
 			"quickSearch": 0,
 			"api": "csp_MiTuApp",
