@@ -1,7 +1,7 @@
 {
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",
 	
- 
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
 
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
@@ -32,6 +32,25 @@
                 "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-{lang}-.html;;rcm0"}},
   
  {      "key": "360zy",      "name": "【360】魅力人影视大全",      "type": 1,      "api": "https://360zy.com/api.php/provide/vod?",      "searchable": 1,      "changeable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "古装片",        "悬疑片",        "犯罪片",        "灾难片",        "国产剧",        "香港剧",        "韩国剧",        "欧美剧",        "台湾剧",        "日本剧",        "海外剧",        "泰国剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "欧美动漫",        "日韩动漫",        "现代都市",        "脑洞悬疑",        "年代穿越",        "古装仙侠",        "女频恋爱",        "成长逆袭",        "反转爽剧"      ]    },
+ {
+			"key": "csp_视觉",
+			"name": "【视觉】┃魅力人影视大全",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+			"playerType": 2,
+			"filterable": 1
+		},
+ {
+			"key": "csp_悠悠",
+			"name": "【悠悠】魅力人影视大全",
+			"type": 3,
+			"quickSearch": 0,
+			"api": "csp_MiTuApp",
+			"ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
+		},
 {
 			"key": "csp_UC",
 			"name": "【4K】魅力人影视大全",
@@ -478,52 +497,25 @@
 "搜索图片": "src=\"&&\"",
 "搜索副标题": "标签:&&</label>",
 "搜索链接": "href=\"&&\""}
-},        
-      {
-      "key": "游酷",
-      "name": "优酷【正宗官源】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/优酷.js"
-    }, 
-    
-    
-  {
-      "key": "爱奇",
-      "name": "爱奇艺【正宗官方】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/爱奇艺.js"
-    },
+},  
 
-    {
-      "key": "企鹅",
-      "name": "腾讯视频【正宗官源】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/腾讯VIP.js"
-    },
-    {
-      "key": "芒果",
-      "name": "芒果【正宗官源】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/芒果.js"
-    },
-    {
-      "key": "艘狗",
-      "name": "搜狗【正宗官源】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/搜狗.js"
-    },
-    {
-      "key": "360影视",
-      "name": "360剧【正宗官源】",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/lib/360影视[官].js"
-    },
+ {
+			"key": "csp_良人",
+			"name": "👨良人┃1080P",
+			"type": 3,
+			"quickSearch": 0,
+			"api": "csp_MiTuApp",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
+		},
+		{
+			"key": "csp_麻花",
+			"name": "🥙麻花┃1080P",
+			"type": 3,
+			"quickSearch": 0,
+			"api": "csp_MiTuApp",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
+		},     
+      
 
   {
       "key": "csp_Quanwk",

@@ -1,5 +1,4 @@
-{
-  "urls": [
+{ "urls": [
   {
       "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
       "name": "魅力人影视测试1"
@@ -18,7 +17,7 @@
     },  
   {
       "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
-      "name": "魅力人影视gitlab此接口即将停用"
+      "name": "魅力人影视gitlab通告:此接口即将停用"
     }, 
    {
       "url":"https://6934.kstore.space/mc.txt",
@@ -74,18 +73,8 @@
       "url": "http://www.mpanso.com/小米/DEMO.json",
       "name": "🚀7小米专线"
     },      
-
     
-    
- //{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json","name":"1"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"2"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/19.json","name":"3"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/juyou.json","name":"4"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/vip.json","name":"5"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/js.json","name":"6"},
-//{"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox.json","name":"7"},
-//{"url":"https://gh.con.sh/https://raw.githubusercontent.com/jessic01/tv/main/11.json","name":"8"},
-//{"url":"https://gh.con.sh/https://raw.githubusercontent.com/jessic01/box1/main/19.json","name":"9"},
+ 
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json","name":"10"}  
   ]
 }
