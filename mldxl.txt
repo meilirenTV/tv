@@ -8,6 +8,14 @@
       "url": "https://notabug.org/mlr/tv/raw/master/mc.txt",
       "name": "魅力人影视测试2"
     },  
+   {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/meilirenTV/tv/main/mc.txt",
+      "name": "魅力人影视测试3"
+    }, 
+   {
+      "url": "https://gh.llkk.cc/https://github.com/meilirenTV/tv/raw/main/mc.txt",
+      "name": "魅力人影视测试4"
+    },  
   {
       "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
       "name": "魅力人影视gitlab"
@@ -36,10 +44,7 @@
       "name": "魅力人mc影视"
     },
     
-    {
-      "url": "https://盒子迷.top/4k",
-      "name": "盒子影视VIP线"
-    },
+    
     
     {
       "url": "http://我不是.摸鱼儿.com",
