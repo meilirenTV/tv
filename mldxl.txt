@@ -18,7 +18,7 @@
     },  
   {
       "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
-      "name": "魅力人影视gitlab"
+      "name": "魅力人影视gitlab此接口即将停用"
     }, 
    {
       "url":"https://6934.kstore.space/mc.txt",
