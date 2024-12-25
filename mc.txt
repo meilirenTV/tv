@@ -24,7 +24,7 @@
  
  {
 			"key": "csp_Wwys",
-			"name": "【旺旺】魅力人影视大全",
+			"name": "【旺旺影视】魅力人影视大全",
 			"type": 3,
 			"playerType": 2,
 			"changeable": 0,
