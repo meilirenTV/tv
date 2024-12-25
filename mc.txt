@@ -8,10 +8,13 @@
 
 
 "lives":[
-{"name":"魅力人直播","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt?ref_type=heads","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
-{"name":"魅力人IPTV1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/IPTV.m3u","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
-{"name":"魅力人IPTV2","type":0,"url":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E7%9B%B4%E6%92%AD",
+{"name":"魅力人IPTV1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
+{"name":"魅力人IPTV2","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt?ref_type=heads","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
+{"name":"魅力人IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/IPTV.m3u","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
+
+{"name":"魅力人IPTV4","type":0,"url":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E7%9B%B4%E6%92%AD",
  "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],                  
 
