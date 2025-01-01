@@ -30,6 +30,17 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
+  {
+      "key": "寒思",
+      "name": "【寒思】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },				
+			
       {
             "key": "农珉",
             "name": "【农民】魅力人影视大全",
@@ -100,16 +111,7 @@
 {"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},
 
 {"key":"夸克玩弹幕1","name":"【玩偶4K】魅力人影视大全","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
-  {
-      "key": "寒思",
-      "name": "【寒思】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppRB",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
+
  {"key":"暴风资源","name":"【爆风】魅力人影视大全","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},  
  
   {
