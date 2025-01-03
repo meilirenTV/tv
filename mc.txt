@@ -120,14 +120,7 @@
       "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
     },		
     
-    //{"key": "皮皮虾",
-      "name": "【皮皮虾4K】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"}, 
+
   		
 		
 {"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},
