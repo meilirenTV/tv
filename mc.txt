@@ -30,6 +30,17 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
+  {
+      "key": "寒思",
+      "name": "【寒思】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },				
+			
       {
             "key": "农珉",
             "name": "【农民】魅力人影视大全",
@@ -86,10 +97,21 @@
 				}
 			}
 		},
-{"key":"移动云盘","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},
+    {
+      "key": "皮皮虾",
+      "name": "【皮皮虾4K】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },   		
+		
+{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},
 
-{"key":"夸克玩弹幕1","name":"❤玩偶┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
-	
+{"key":"夸克玩弹幕1","name":"【玩偶4K】魅力人影视大全","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
+
  {"key":"暴风资源","name":"【爆风】魅力人影视大全","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},  
  
   {
@@ -341,7 +363,7 @@
         },    
  {
       "key": "qysp",
-      "name": "奇艺┃视频",
+      "name": "【奇艺视频】",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -351,7 +373,7 @@
     },
     {
       "key": "txsp",
-      "name": "腾讯┃视频",
+      "name": "【腾讯视频】",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -361,7 +383,7 @@
     },
     {
       "key": "yksp",
-      "name": "优酷┃视频",
+      "name": "【优酷视频】",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -371,7 +393,7 @@
     },
     {
       "key": "mgsp",
-      "name": "芒果┃视频",
+      "name": "【芒果视频】",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -381,7 +403,7 @@
     },
     {
       "key": "sgys",
-      "name": "搜狗┃视频",
+      "name": "【搜狗视频】",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -532,20 +554,11 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
 		},     
-    {
-      "key": "皮皮虾",
-      "name": "🦞皮皮吃虾┃4K纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"
-    },   
+
 
   {
       "key": "csp_Quanwk",
-      "name": "全看影视",
+      "name": "【全看影视】",
       "type": 3,
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"},
@@ -664,7 +677,7 @@
       }
     },
  
-
+{"key":"糖果","name":"🍭糖果┃蓝光┃无广","type":3,"api":"csp_Shark","jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
 	                         
     
 
@@ -872,11 +885,7 @@
       "type": 3,
       "url": "Web"
     },
-        {
-      "name": "m3u8",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
+        
   {
             "name": "线路1",
             "type": 0,
@@ -904,7 +913,13 @@
                 ]
             }
         },  
-        
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },    
+  {"name":"巧记2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},   
+    
   {
             "name": "线路4",
             "type": 0,
@@ -915,23 +930,8 @@
                 }
             }
         },      
-   {"name":"巧记2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="}, 
-   {
-            "name": "线路10",
-            "type": 0,
-            "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "线路11",
-            "type": 0,
-            "url": "https://jx.yangtu.top?url="
-        },
-        
-        {
-            "name": "线路13",
-            "type": 0,
-            "url": "https://www.ckplayer.vip/jiexi/?url="
-        },
+   
+
    {
       "name": "皮皮虾",
       "type": "1",
@@ -946,35 +946,7 @@
  
    {            "name": "mgtv4K",            "type": 1,            "url": "http://1.94.221.189:88/algorithm.php?url=",            "ext": {                "flag": [                    "公众号:拾光趣乐屋",                    "qq",                    "腾讯",                    "qiyi",                    "爱奇艺",                    "奇艺",                    "youku",                    "优酷",                    "sohu",                    "搜狐",                    "letv",                    "乐视",                                        "芒果",                    "tnmb",                    "seven",                    "bilibili",                    "1905"                ],                "header": {                    "User-Agent": "okhttp/4.9.1"                }            }        }, 
   {"name":"解析1","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},    
-   {
-            "name": "icu",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+
     
     
   {"name":"🌎巧技二","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},  
@@ -991,14 +963,9 @@
 {"name":"巧记1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
 	
 
-{"name":"新感觉XGJ","type":1,"url":"http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url="},
 
 
-{"name":"欧歌解析","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
-{"name":"-关注-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="},
-{"name":"-欧歌-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="},
-{"name":"-公众号-","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="},
-{"name":"欧歌APP","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="},
+
 {"name":"线路1","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name":"线路2","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
@@ -1025,7 +992,22 @@
 "url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
 酷","mgtv","imgo","芒果"]}},
 
-   
+    {
+            "name": "线路10",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "name": "线路11",
+            "type": 0,
+            "url": "https://jx.yangtu.top?url="
+        },
+        
+        {
+            "name": "线路13",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },  
 
 
 
