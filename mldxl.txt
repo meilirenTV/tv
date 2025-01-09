@@ -32,8 +32,15 @@
       "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
       "name": "魅力人业余线路"
     }, 
+       {
+      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
+      "name": "魅力人无名线路"
+    },   
 
-    
+  {
+   "url": "http://175.178.251.183:6689/tv.txt",
+      "name": "魅力人闹闹线路"
+    },  
     {
       "url": "http://tv.nxog.top/m/",
       "name": "魅力人讴歌线路"
