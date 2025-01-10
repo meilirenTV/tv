@@ -30,6 +30,31 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
+{
+			"key": "csp_UC",
+			"name": "【4KUC】魅力人影视大全",
+			"type": 3,
+			"api": "csp_Duopan",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://www.mucpan.cc",
+					"http://ucmi.fun",
+					"http://www.ucmi.fun"
+				],
+				"url_key": "UC",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 12
+				}
+			}
+		},
+{"key":"T4-6v","name":"【4K磁力】魅力人影视大全","type":4,"api":"https://catbox.n13.club/t6/6v.php"},
+{"key":"夸克玩弹幕1","name":"【玩偶4K】魅力人影视大全","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
+{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},			
   {
       "key": "寒思",
       "name": "【寒思】魅力人影视大全",
@@ -75,28 +100,7 @@
 			"ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
 		},
 		
-{
-			"key": "csp_UC",
-			"name": "【UC4K】魅力人影视大全",
-			"type": 3,
-			"api": "csp_Duopan",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"http://www.mucpan.cc",
-					"http://ucmi.fun",
-					"http://www.ucmi.fun"
-				],
-				"url_key": "UC",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
+
 
     
     {
@@ -107,13 +111,7 @@
       "api": "csp_XBPQ",
       "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
     },		
-    
-
-  		
-		
-{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},
-
-{"key":"夸克玩弹幕1","name":"【玩偶4K】魅力人影视大全","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
+      				
   {
       "key": "拾光☪4KTV",
       "name": "【☪4KTV】魅力人影视大全",
@@ -588,7 +586,8 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"},
 
-
+{"key":"T4-cctv","name":"其他-央视(T4)","type":4,"api":"https://catbox.n13.club/t6/cctv.php"},
+{"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t6/cntv.php"},
   
     {
       "key": "csp_zhufan",
