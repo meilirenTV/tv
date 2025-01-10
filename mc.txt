@@ -98,14 +98,7 @@
 			}
 		},
 
-    {"key": "皮皮虾",
-      "name": "【皮皮虾4K】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"}, 
+    
     {
       "key": "流光影视",
       "name": "【流光千里】魅力影视大全",
