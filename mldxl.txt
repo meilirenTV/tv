@@ -2,28 +2,29 @@
 
  {
       "url": "https://raw.staticdn.net/meilirenTV/tv/refs/heads/main/mc.txt",
-      "name": "魅力人影视测试1"
+      "name": "魅力人影视1"
     }, 
   {
       "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
-      "name": "魅力人影视测试2"
+      "name": "魅力人影视2"
     }, 
    {
       "url": "https://notabug.org/mlr/tv/raw/master/mc.txt",
-      "name": "魅力人影视测试3"
+      "name": "魅力人影视3"
     },  
    
    {
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mldxl.txt",
-      "name": "魅力人影视测试4"
+      "name": "魅力人影视4"
     },  
   {
       "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
       "name": "魅力人影视5"
     }, 
    {
-      "url":"https://6934.kstore.space/mc.txt",
-      "name": "魅力人影视凯速"
+      "url":"https://d.kstore.dev/download/12020/t4.json",
+      "name": "魅力人
+      T4影视凯速"
     },    
   
       
