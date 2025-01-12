@@ -1,7 +1,7 @@
 { "urls": [
 
  {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
+      "url": "https://raw.staticdn.net/meilirenTV/tv/refs/heads/main/mc.txt",
       "name": "魅力人影视测试1"
     }, 
   {
