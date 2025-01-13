@@ -1,8 +1,8 @@
 {
 
 	
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
 
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -52,7 +52,25 @@
 				}
 			}
 		},
-	
+{
+			"key": "csp_Xlys",
+			"name": "【哔嘀】魅力人影视大全",
+			"api": "csp_Xlys",
+			"searchable": 1,
+			"type": 3,
+			"playerType": 2
+		},		
+{
+			"key": "csp_猎手",
+			"name": "【猎手】魅力人影视大全",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://drive.almondcloud.cn/f/mnyRt1/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
+			"playerType": 2,
+			"filterable": 1
+		},	
 		
 {"key":"T4-6v","name":"【4K磁力】魅力人影视大全","type":4,"api":"https://catbox.n13.club/t7/6v.php"},
 {"key":"夸克玩弹幕1","name":"【玩偶4K】魅力人影视大全","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506","ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site": "http://mogg.小胡.top","danmu": true}},
@@ -93,16 +111,10 @@
 			"playerType": 2,
 			"filterable": 1
 		},
- {
-			"key": "csp_悠悠",
-			"name": "【悠悠】魅力人影视大全",
-			"type": 3,
-			"quickSearch": 0,
-			"api": "csp_MiTuApp",
-			"ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M"
-		},
-		
 
+
+		
+		 
 
     
     {
