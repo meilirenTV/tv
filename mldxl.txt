@@ -1,8 +1,8 @@
 { "urls": [
 
  {
-      "url": "https://raw.staticdn.net/meilirenTV/tv/refs/heads/main/mc.txt",
-      "name": "魅力人影视1"
+      "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
+      "name": "魅力人影院1"
     }, 
   {
       "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
@@ -23,8 +23,7 @@
     }, 
    {
       "url":"https://d.kstore.dev/download/12020/t4.json",
-      "name": "魅力人
-      T4影视凯速"
+      "name": "魅力人T4影视凯速"
     },    
   
       
