@@ -109,7 +109,47 @@
 			"playerType": 2,
 			"filterable": 1
 		},
-
+{
+      "key": "taopian",
+      "name": "【测试淘片】卡就换源",
+      "type": 1,
+      "jar": "./lib/分享者0.zip",
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫/国产动漫",
+        "动漫/日本动漫",
+        "动漫/欧美动漫",
+        "动漫/海外动漫",
+        "综艺/大陆综艺",
+        "综艺/港台综艺",
+        "综艺/日韩综艺",
+        "综艺/欧美综艺",
+        "综艺/海外综艺",
+        "电视剧/国产剧",
+        "电视剧/香港剧",
+        "电视剧/欧美剧",
+        "电视剧/海外剧",
+        "电视剧/韩国剧",
+        "电视剧/日本剧",
+        "电视剧/泰国剧",
+        "电视剧/台湾剧",
+        "电影/战争片",
+        "电影/科幻片",
+        "电影/奇幻片",
+        "电影/冒险片",
+        "电影/动画片",
+        "电影/喜剧片",
+        "电影/动作片",
+        "电影/爱情片",
+        "电影/恐怖片",
+        "电影/惊悚片",
+        "电影/剧情片",
+        "电影/悬疑片",
+        "电影/纪录片"
+      ]
+    },
 
 		
 		 
@@ -282,26 +322,13 @@
 			"api": "csp_XBPQ",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,"jar":"http://gitlab.com/meoliren/tv/-/raw/main/spider.jar",
+			"filterable": 1,"jar":"https://git.acwing.com/meiliren/tv/-/raw/main/spider.jar",
 			"ext": {
 				"分类url": "http://789ys.com/show/{cateId}--{by}-{class}-{lang}----{catePg}---{year}.html;;k",
 				"分类": "国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动漫$4#综艺$3"
 			}
 		},
- 	{
-			"key": "XBPQ_567",
-			"name": "【567】魅力人影视大全",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/spider.jar","ext": {
-				"请求头": "手机",
-				"分类url": "https://www.567dyy.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html",
-				"分类": "电影&电视剧&综艺&动漫",
-				"分类值": "1&2&3&4"
-			}
-		},
+ 	
   
 
 	    {
