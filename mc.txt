@@ -22,15 +22,32 @@
  
  {
 			"key": "csp_Wwys",
-			"name": "【魅力影院】魅力人影视大全",
+			"name": "【魅力影院】魅力人影视大全{秒播源}",
 			"type": 3,
 			"playerType": 2,
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
+{"key":"洽洽影视","name":"【洽洽影视】魅力人影视大全{秒播源}","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819"},		
+   {
+      "key": "WexrenrenGuard",
+      "name": "【人人影视】魅力人影视大全{秒播源}",
+      "type": 3,
+      "api": "csp_WexrenrenGuard",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"},			
+{"key":"农民影视","name":"【农民影视】魅力人影视大全{秒播源}","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819"},			
+ {
+      "key": "csp_Nmys",
+      "name": "【伯伯秒播】魅力人影视大全{秒播源}",
+      "type": 3,
+      "api": "csp_WexNmysGuard",
+      "searchable": 1,
+      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"
+    },			
 {
 			"key": "csp_UC",
-			"name": "【4KUC】魅力人影视大全",
+			"name": "【4KUC】魅力人影视大全{4K不卡源}",
 			"type": 3,
 			"api": "csp_Duopan",
 			"filterable": 1,
@@ -52,12 +69,13 @@
 		},
 {
 			"key": "csp_Xlys",
-			"name": "【哔嘀】魅力人影视大全",
+			"name": "【哔嘀】魅力人影视大全{秒播源}",
 			"api": "csp_Xlys",
 			"searchable": 1,
 			"type": 3,
 			"playerType": 2
-		},		
+		},	
+	
 {
 			"key": "csp_猎手",
 			"name": "【猎手】魅力人影视大全",
