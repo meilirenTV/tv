@@ -1,8 +1,10 @@
 
 
 📺打赏频道,#genre#
-经典重温,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+CCTV1,http://223.105.252.60/PLTV/4/224/3221228049/index.m3u8?servicetype=1
+
 打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/21/13/BMjAyNDAyMjExMzU3MTNfMjU2Mjk5MDc1NF8xMjU1NTA3MTk0ODdfMl8z_b_B3f56cd83b98b013717dea5ffdb0f8c7a.mp4?tag=1-1708495188-unknown-0-3brstzpt5h-861021e10d31e4a9&clientCacheKey=3xwx2a37b3ti4jc_b.mp4&di=78cf8d20&bp=10000&tt=b&ss=vp#https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
+经典重温,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
 点歌台,http://zzy789.xyz/douyu1.php?id=3186217
@@ -86,7 +88,25 @@ cct4欧洲咪咕,https://www.freetv.top/migu/608807419.m3u8?migutoken=9440d28362
 体育频道咪咕,https://www.freetv.top/migu/626064707.m3u8?migutoken=dd34b681f2405008ed721a89f2437ed47a16c7e8f334d5deaa3de5c77237746dcf0b699c8f2f8d5ddae3703378aa238aa537ca0492f9dc794228966175238dbd5cac1cf598e30fc29274367eb4
 NBA经典咪咕,https://www.freetv.top/migu/788815380.m3u8?migutoken=5e8001267fdcffff8a754058ac5b1777ec55c24c40ba7eaad6192f34a0340554e8ce14f09165c95069f457527709c9212f9ca475563c490b6d2314131207f24e2d744ba2a4ddea685e4c46a734
 劲爆体育咪咕,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
-
+📺咪咕央卫2,#genre#
+CCTV1,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv1
+CCTV2,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv2
+CCTV3,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv3
+CCTV4,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv4
+CCTV5,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv5
+CCTV5+,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv5p
+CCTV6,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv6
+CCTV7,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv7
+CCTV8,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv8
+CCTV9,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv9
+CCTV10,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv10
+CCTV11,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv11
+CCTV12,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv12
+CCTV13,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv13
+CCTV14,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv14
+CCTV15,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv15
+CCTV16,http://8.138.90.107/%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB%E3%80%91/migu.php?id=cctv16
+CCTV17,http://8.138.90.107/%E5%85%AC%E4%B
 
 📺有线电视,#genre#
 CCTV1,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=15654890039634427536&amp
@@ -156,63 +176,6 @@ YNWS,http://cc-ynbit-wszhibo.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=17
 ZSWS,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383&amp
 
 BJWS,http://cc-ynbit-wszhibo.ifengli.com:2000/live/bjws-hd/1.m3u8?innersid=18360129623627541611&amp
-
-
-📺央视IPV4,#genre#
-
-CCTV5+,http://112.102.217.173:9003//hls/18/index.m3u8
-CCTV01,http://120.76.248.139/live/bfgd/4200000201.m3u8
-CCTV02,http://120.76.248.139/live/bfgd/4200000061.m3u8
-CCTV03,http://120.76.248.139/live/bfgd/4200000062.m3u8
-CCTV04,http://120.76.248.139/live/bfgd/4200000063.m3u8
-CCTV05,http://120.76.248.139/live/bfgd/4200000064.m3u8
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
-CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
-CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
-CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
-CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
-CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
-CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
-CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
-CCTV16,http://112.102.217.173:9003//hls/29/index.m3u8
-CCTV17,http://112.102.217.173:9003//hls/30/index.m3u8
-CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
-卫视IPV4,#genre#
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
-东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
-浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036
-江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
-湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
-安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
-山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
-东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
-辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
-海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
-江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
-湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
-广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
-四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
-河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
-贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
-河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8
-重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
-甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
-陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8
-吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
-黑龙江视,http://120.76.248.139/live/bfgd/4200000095.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
