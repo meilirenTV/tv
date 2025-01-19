@@ -478,14 +478,15 @@
       "timeout": 10
     }, 
 
-{"key":"醉挽清风","name":"【醉挽清风】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"},
-		
+{"key":"醉挽清风","name":"【魅力人4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://git.acwing.com/meiliren/tv/-/raw/main/mei.js"},
+
+
+     		
   {
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "【腾讯视频】魅力人影视大全",
+			"name": "【腾讯视频】魅力人影视大全破解版",
 			"type": 3,
-			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",			
-			"ext": "https://gitee.com/charming-person/tv/raw/master/txsp.txt"},
+			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},
    
   	{
 			"key": "hipy_js_腾云驾雾[官]",
@@ -967,26 +968,15 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "🌞腾腾┃解析",
 			"type": 3,
-			"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/txtv.js"
 		},
-		{
-			"key": "guoguo",
-			"name": "🌞果果┃解析",
-			"type": 3,
-			"api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-		},    
+		
 {"key":"量子资源","name":"量子资源","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","伦理片"]},
 	    	         
  {"key":"非凡资源","name":"非凡资源","type":"0","api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]},	   
@@ -1071,7 +1061,7 @@
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },    
   {"name":"巧记2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},   
-    
+  {"name":"测试","type":1,"url":"http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=gikopqyBCDJMOTY458&url="},  
   {
             "name": "线路4",
             "type": 0,
@@ -1116,7 +1106,7 @@
 {"name":"巧记1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
 	
 
-
+	
 
 
 {"name":"线路1","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
