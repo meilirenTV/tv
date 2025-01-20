@@ -25,8 +25,11 @@
       "url":"https://d.kstore.dev/download/12020/t4.json",
       "name": "魅力人T4影视凯速"
     },    
-  
-      
+     {
+      "url":"http://yun.yunqiji.vip/yunfensi/fensi4kyun.json  ",
+      "name": "魅力人奇迹云影视"
+    },  
+
     
     {
       "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
