@@ -304,7 +304,10 @@
       "header": {
         "token": "yydf"
       }}, 
-   {
+  
+      
+   {"key":"iqiyi","name":"【爱奇艺T4】魅力人影视大全","type":4,"api":"http://t4.540734621.xyz:8888/video/iqiyi","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},   
+ {
       "key": "txsp",
       "name": "【腾讯视频】魅力人影视大全",
       "type": 3,
@@ -314,9 +317,6 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
     },    
-      
-   {"key":"iqiyi","name":"【爱奇艺T4】魅力人影视大全","type":4,"api":"http://t4.540734621.xyz:8888/video/iqiyi","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},   
-
 	
 {"key": "guoguo","name": "【芒果4K】魅力人影视大全",
 			"type": 3,
