@@ -26,30 +26,7 @@
                 "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
         },
-        {
-            "name": "最强国内直播(-1天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE1SUB",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        {
-            "name": "最强CIPTV",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-            }
-        },
+        
  {
             "name": "最强CIPTV(-6天回看)",
             "type": 0,
@@ -76,14 +53,16 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
-
-   {
-      "key": "WexrenrenGuard",
-      "name": "【人人影视】魅力人影视大全{秒播源}",
+ {
+      "key": "人人",
+      "name": "【我为人人4K】魅力人影视大全{秒播源}",
       "type": 3,
-      "api": "csp_WexrenrenGuard",
-      "searchable": 1,
-      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"},		
+      "api": "csp_Xdai",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+    },
+ 	
   	{
             "key": "csp_DUODUO",
             "name": "【多多】魅力人影视大全{秒播源}",
@@ -139,15 +118,20 @@
 			"type": 3,
 			"playerType": 2
 		},	
+
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
      		
   {
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "【腾讯视频正版】魅力人影视大全破解版",
+			"name": "【腾讯视频正版】魅力人影视大全",
 			"type": 3,
 			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
+
+
+     		
+  
 {
 			"key": "csp_猎手",
 			"name": "【猎手】魅力人影视大全",
@@ -320,6 +304,17 @@
       "header": {
         "token": "yydf"
       }}, 
+   {
+      "key": "txsp",
+      "name": "【腾讯视频】魅力人影视大全",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
+    },    
+      
    {"key":"iqiyi","name":"【爱奇艺T4】魅力人影视大全","type":4,"api":"http://t4.540734621.xyz:8888/video/iqiyi","searchable":1,"quickSearch":1,"changeable":0,"header":{"token":"yydf"}},   
 
 	
@@ -488,18 +483,7 @@
 
 
    
-  	{
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "【腾腾1080P】魅力人影视大全",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"
-		},  
+  	
     
  {"key":"drpy_js_奇珍异兽","name":"【爱奇艺】魅力人影视大全","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 
@@ -540,16 +524,7 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
     },
-    {
-      "key": "txsp",
-      "name": "【腾讯视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
-    },
+   
     {
       "key": "yksp",
       "name": "【优酷视频】魅力人影视大全",
@@ -712,20 +687,7 @@
 {"key":"T4-cctv","name":"其他-央视(T4)","type":4,"api":"https://catbox.n13.club/t7/cctv.php"},
 {"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t7/cntv.php"},
   
-    {
-      "key": "csp_zhufan",
-      "name": "追饭1080P",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "csp_MiTo",
-      "ext": {
-        "url": "http://xiafan.zhuiju666.com",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "1.1.0"
-      }
-    },
+    
     
 
     
@@ -757,56 +719,15 @@
 
     
     
-    {
-      "key": "雨滴",
-      "name": "雨滴App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA","jar":"http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"},
+    
  {"key":"糯米弹幕","name":"糯米弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428","ext":{"danmu":true}},
     
    
-      {
-      "key": "优质",
-      "name": "优质┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw","jar":"http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"},
+      
     
     
     
-      {
-      "key": "AI2",
-      "name": "AI2┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==","jar":"http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"}, 
-   {
-      "key": "AI4",
-      "name": "AI4┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=","jar":"http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"},  
-   {
-      "key": "AI3",
-      "name": "AI3┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp","jar":"http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"},  
+      
     
 
   
@@ -847,14 +768,7 @@
     },   
     
 
-    {
-			"key": "xbpq_77看片",
-			"name": "简影77看片",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"changeable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/spider.jar","ext": "https://gitlab.com/meoliren/tv/-/raw/main/77%E7%9C%8B%E7%89%87.json"
-		},
+    
 		  
 
 	{
@@ -911,58 +825,9 @@
 
 
              
- {
-      "key": "csp_xml_ikun",
-      "name": "爱坤蓝光",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "泰国剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "犯罪片",
-        "惊悚片",
-        "古装片",
-        "灾难片",
-        "历史片",
-        "其他片",
-        "悬疑片",
-        "奇幻片",
-        "动画片",
-        "欧美综艺"
-      ]
-    },
-      
-{
-		"key": "drpy_企鹅",
-		"name": "🐧企鹅┃影视",
-		"type": 3,
-		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-		"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/txtv.js"
-	},
+ 
+
+
 
 		{
 			"key": "hipy_js_腾云驾雾[官]",
@@ -974,46 +839,18 @@
 			"filterable": 1,
 			"order_num": 0,
 			"changeable": 0,
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/txtv.js"
-		},
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/txtv.js"},
 		
 {"key":"量子资源","name":"量子资源","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","伦理片"]},
 	    	         
- {"key":"非凡资源","name":"非凡资源","type":"0","api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]},	   
+ {"key":"非凡资源","name":"非凡资源","type":"0","api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]}],    
 
 	                   
     
 
     
 
-   {"key":"量子资源","name":"量子影院","type":1,"api":"http://www.lzizy5.com/api.php/provide/vod/","searchable":1,"quickSearch":1 ,"filterable":0,"categories": [
-               "国产剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",               "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "记录片",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "伦理片"
-            ]
-   }],  
+  
               
 "parses":[
 
@@ -1100,8 +937,9 @@
       "type": 0,
       "url": "https://bd.jx.cn/?url="
     },
-   
- 
+
+
+  
 
 {"name":"巧记1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url="},
 	
