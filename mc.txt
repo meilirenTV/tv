@@ -820,7 +820,12 @@
 
 
 {"key":"mingriyingshi","name":"明日影视","type":3,"api":"csp_WexMingriys","searchable":1,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"},
-        
+      {
+		"key": "drpy_企鹅",
+		"name": "🐧企鹅┃影视",
+		"type": 3,
+		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+		"ext": "https://gitee.com/charming-person/tv/raw/master/txjx.js"},        
 
 
 
@@ -898,7 +903,8 @@
       "url": "https://jx.m3u8.tv/jiexi/?url="
     },    
   {"name":"巧记2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},   
-  {"name":"测试","type":1,"url":"http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=gikopqyBCDJMOTY458&url="},  
+ 
+   {"name":"测试","type":1,"url":"http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=gikopqyBCDJMOTY458&url="},  
   {
             "name": "线路4",
             "type": 0,
@@ -910,26 +916,13 @@
             }
         },      
  {"name":"解析最先","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
-  
 
-   {
-      "name": "皮皮虾",
-      "type": "1",
-      "url": "http://45.207.215.101:5423/index.php?url=",
-      "ext": {
-        "flag": [
-          "PPXLG",
-          "皮皮虾4K"
-        ]
-      }
-    },     
  
-   {            "name": "mgtv4K",            "type": 1,            "url": "http://1.94.221.189:88/algorithm.php?url=",            "ext": {                "flag": [                    "公众号:拾光趣乐屋",                    "qq",                    "腾讯",                    "qiyi",                    "爱奇艺",                    "奇艺",                    "youku",                    "优酷",                    "sohu",                    "搜狐",                    "letv",                    "乐视",                                        "芒果",                    "tnmb",                    "seven",                    "bilibili",                    "1905"                ],                "header": {                    "User-Agent": "okhttp/4.9.1"                }            }        }, 
-  {"name":"解析1","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url="},    
+   
 
     
     
-  {"name":"🌎巧技二","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},  
+
 
 
   {
@@ -951,9 +944,6 @@
 {"name":"线路2","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 
-
-
-
 {
             "name": "🌎虾米",
             "type": 0,
@@ -968,10 +958,7 @@
 
 
 
-{"name":"🌎m3u8嗅探",
-"type":0,
-"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
-酷","mgtv","imgo","芒果"]}},
+
 
     {
             "name": "线路10",
