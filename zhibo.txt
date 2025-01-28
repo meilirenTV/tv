@@ -1,7 +1,7 @@
 测试4K春晚备用源,#genre#
 
 高清备用1CCTV1,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&icpid=88888888&from=1&hms_devid=3730
-CCTV1备用2http://112.123.206.32:808/hls/1/index.m3u8
+CCTV1备用2,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1备用3,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV1,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1
 4KCCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
