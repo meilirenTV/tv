@@ -1,6 +1,4 @@
-{
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-	
+{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",	
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -13,33 +11,7 @@
 
 
 {"name":"魅力人IPTV4","type":0,"url":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E7%9B%B4%E6%92%AD",
- "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
- {
-            "name": "最强国内直播",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-            }
-        },
-        
- {
-            "name": "最强CIPTV(-6天回看)",
-            "type": 0,
-            "url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ciptv.m3u",
-            "ua": "okhttp/3.15",
-            "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date=DATE6SUB",
-            "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-            "catchup": {
-                "type": "append",
-                "source": "?playseek=${(b)yyyyMMddHHmm}00-${(e)yyyyMMddHHmm}00"
-            }
-        }
-],                  
+ "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],                  
 
 "sites":
  [
@@ -53,15 +25,14 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
- {
-      "key": "人人",
-      "name": "【我为人人4K】魅力人影视大全{秒播源}",
-      "type": 3,
-      "api": "csp_Xdai",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
-    },
+	{"key": "csp_yumi","name": "【玉米】魅力人影视大全{秒播源}",
+			"type": 3,
+			"searchable": 1,
+			"quickSearch": 1,
+			"api": "csp_MiTuApp",
+			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
+		},			
+
  	
   	{
             "key": "csp_DUODUO",
@@ -136,7 +107,7 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "【腾讯视频正版】魅力人影视大全",
 			"type": 3,
-			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
+			"api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
 
 
      		
