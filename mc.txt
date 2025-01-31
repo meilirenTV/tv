@@ -25,6 +25,29 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
+			
+{
+			"key": "csp_UC",
+			"name": "【4KUC】魅力人影视大全{4K不卡源}",
+			"type": 3,
+			"api": "csp_Duopan",
+			"filterable": 1,
+			"ext": {
+				"site_urls": [
+					"http://www.mucpan.cc",
+					"http://ucmi.fun",
+					"http://www.ucmi.fun"
+				],
+				"url_key": "UC",
+				"token": "",
+				"ucCookie": "",
+				"quarkCookie": "",
+				"threadinfo": {
+					"chunksize": 450,
+					"threads": 12
+				}
+			}
+		},			
 	{"key": "csp_yumi","name": "【玉米】魅力人影视大全{秒播源}",
 			"type": 3,
 			"searchable": 1,
@@ -33,7 +56,23 @@
 			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
 		},			
 
- 	
+  {
+      "key": "人人",
+      "name": "【人人影视】魅力人影视大全{秒播源}",
+      "type": 3,
+      "api": "csp_Xdai",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "playerType": 1,
+      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+    }, 	
+ {
+      "key": "csp_SuBaiBai",
+      "name": "【白白】魅力影视大全",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "playerType": 2,
+      "ext": "https://subaibai.com/"
+    },   
   	{
             "key": "csp_DUODUO",
             "name": "【多多】魅力人影视大全{秒播源}",
@@ -59,28 +98,7 @@
       "searchable": 1,
       "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"
     },			
-{
-			"key": "csp_UC",
-			"name": "【4KUC】魅力人影视大全{4K不卡源}",
-			"type": 3,
-			"api": "csp_Duopan",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"http://www.mucpan.cc",
-					"http://ucmi.fun",
-					"http://www.ucmi.fun"
-				],
-				"url_key": "UC",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
+
 {
 			"key": "csp_Xlys",
 			"name": "【哔嘀】魅力人影视大全{秒播源}",
@@ -98,7 +116,16 @@
       "playerType": 1,
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },		
-
+{
+      "key": "csp_红狐狸影视",
+      "name": "【洪湖秒播】魅力人影视大全",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://yun.yunqiji.vip/yunfensi/jar/tvkj.jar",
+      "ext": {
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
@@ -357,14 +384,7 @@
       "changeable": 0,
       "api": "csp_SaoHuo"
     },    
-     {
-      "key": "csp_SuBaiBai",
-      "name": "【白白】魅力影视大全",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://subaibai.com/"
-    },
+     
                                
 
  
