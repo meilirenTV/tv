@@ -56,7 +56,7 @@
 			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
 		},			
 
-  {
+ {
       "key": "人人",
       "name": "【人人影视】魅力人影视大全{秒播源}",
       "type": 3,
@@ -80,7 +80,7 @@
             "quickSearch": 0,
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-        },    	
+        },    	 
 {"key":"农民影视","name":"【农民影视】魅力人影视大全{秒播源}","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819"},		
  {
             "key": "csp_AppDrama2",
@@ -107,7 +107,7 @@
 			"type": 3,
 			"playerType": 2
 		},	
-  {
+ {
       "key": "图图",
       "name": "【图图】魅力人影视大全{4K源}",
       "type": 3,
@@ -115,17 +115,9 @@
       "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
       "playerType": 1,
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-    },		
-{
-      "key": "csp_红狐狸影视",
-      "name": "【洪湖秒播】魅力人影视大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://yun.yunqiji.vip/yunfensi/jar/tvkj.jar",
-      "ext": {
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      },
+    },		 
+
+        
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
@@ -454,8 +446,9 @@
     
    
  {"key":"csp_Jpyy","name":"【金牌】魅力影视大全","type":3,"api":"csp_Jpyy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729857428301/PandaQ241025.txt;md5;ab94379331e6c8b9611a8ef63e8c26f6"},     
-   
-       {
+
+       
+ {
       "key": "csp_红狐狸影视",
       "name": "【狐狸】魅力影视大全",
       "type": 3,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/ttkx.jar",
@@ -464,8 +457,7 @@
         "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "魅力人电影$1#魅力人电视剧$2#魅力人综艺$3#魅力人动漫$4"
       }
-    },
-      
+    },     
    {
       "key": "文才",
       "name": "【文才】魅力人影视大全",
