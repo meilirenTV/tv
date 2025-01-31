@@ -125,7 +125,7 @@
       "ext": {
         "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-      }
+      },
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
