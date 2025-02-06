@@ -55,16 +55,16 @@
 			"api": "csp_MiTuApp",
 			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
 		},			
-
- {
+  {
       "key": "人人",
-      "name": "【人人影视】魅力人影视大全{秒播源}",
+      "name": "【我为人人】魅力人影视大全4K纯净",
       "type": 3,
       "api": "csp_Xdai",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "playerType": 1,
       "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
-    }, 	
+    },
+
  {
       "key": "csp_SuBaiBai",
       "name": "【白白】魅力影视大全",
@@ -112,11 +112,11 @@
       "name": "【图图】魅力人影视大全{4K源}",
       "type": 3,
       "api": "csp_APPTT",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "playerType": 1,
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },		 
-
+   
         
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
@@ -497,6 +497,8 @@
       "type": 3,
       "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
+      
+  
   {
             "key": "1905",
             "name": "【1905影视】魅力人影视大全",
@@ -504,7 +506,7 @@
             "api": "csp_Web1905",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"
+            "filterable": 0,"jar":"http://rihou.cc:55/微信公众号开心软件"
         },    
  {
       "key": "qysp",

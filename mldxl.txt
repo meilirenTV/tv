@@ -36,13 +36,13 @@
       "name": "魅力人业余线路"
     }, 
        {
-      "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json",
-      "name": "魅力人无名线路"
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "魅力人开心线路"
     },   
 
   {
-   "url": "http://175.178.251.183:6689/tv.txt",
-      "name": "魅力人闹闹线路"
+   "url": "https://gitee.com/arthroscopic-eye/jgy/raw/master/test1",
+      "name": "魅力人四季线路"
     },  
     {
       "url": "http://tv.nxog.top/m/",
@@ -74,8 +74,8 @@
       "name": "🚀饭硬专线"
     },
     {
-      "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json",
-      "name": "🚀700专线"
+      "url": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🚀天威专线"
     },
         {
       "url": "http://肥猫.com/",
