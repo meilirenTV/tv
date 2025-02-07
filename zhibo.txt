@@ -1,18 +1,14 @@
-测试4K春晚备用源,#genre#
 
-高清备用1CCTV1,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&icpid=88888888&from=1&hms_devid=3730
-CCTV1备用2,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-1备用3,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CCTV1,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1
-4KCCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-AVS-4K264&ace
-4KCCTV3,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-3-AVS-4K264&ace
-4KCCTV4K,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-4K-HD&ace
-高清备用1CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/JSYD.php?p=gitv&id=G_CCTV-1-HD-265-5M&ace
 
 📺打赏频道,#genre#
 
-青海卫视,http://39.134.65.76:80/wh7f454c46tw3018771670_1594237566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+
 打赏画面,https://alimov2.a.kwimgs.com/upic/2024/02/21/13/BMjAyNDAyMjExMzU3MTNfMjU2Mjk5MDc1NF8xMjU1NTA3MTk0ODdfMl8z_b_B3f56cd83b98b013717dea5ffdb0f8c7a.mp4?tag=1-1708495188-unknown-0-3brstzpt5h-861021e10d31e4a9&clientCacheKey=3xwx2a37b3ti4jc_b.mp4&di=78cf8d20&bp=10000&tt=b&ss=vp#https://alimov2.a.kwimgs.com/upic/2024/02/17/09/BMjAyNDAyMTcwOTM3MjFfMjU2Mjk5MDc1NF8xMjUxNjI1MzQ0MjhfMl8z_b_Bc02ad4ac395a7bd7fd6a68f3a891d2a4.mp4?tag=1-1708133919-unknown-0-5mcjqdlfz5-2dbf53656bf5fed8&clientCacheKey=3xxahjr6jary93c_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp#https://pan.rvxy.com/view.php/2b6192673b2e453bddbb901165bc6dfb.mp4
+CCTV-1综合,http://39.135.133.180:80/wh7f454c46tw256792780_487141431/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1714040100&from=23&hms_devid=1250&online=1714040100&vqe=3#http://39.135.133.172:80/wh7f454c46tw272241335_-1807178243/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1714040115&from=23&hms_devid=1242&online=1714040115&vqe=3#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+CCTV1,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&icpid=88888888&from=1&hms_devid=3730
+
+CCTV-1,http://[2409:8087:1:20:20::2b]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+青海卫视,http://39.134.65.76:80/wh7f454c46tw3018771670_1594237566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 经典重温,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 音乐欣赏,https://alimov2.a.kwimgs.com/upic/2024/02/19/12/BMjAyNDAyMTkxMjQ0MzJfMjU2Mjk5MDc1NF8xMjUzNjEyNTExNDFfMl8z_b_B0fe071cf69b3a691b3978f65ea0aa39d.mp4?tag=1-1708318027-unknown-0-s0j4u5xpen-28798efd90112b0f&clientCacheKey=3xdkehnksmsb9ha_b.mp4&di=78cf8d0e&bp=10000&tt=b&ss=vp
 吉比村黄河腰鼓,https://alimov2.a.kwimgs.com/upic/2024/02/23/12/BMjAyNDAyMjMxMjU3MTZfMjU2Mjk5MDc1NF8xMjU3MjMyNjI2NDNfMl8z_b_Bd7c9ee3e329e7f96a5adf5831cf310ab.mp4?tag=1-1708664322-unknown-0-fucwr28qim-10d8a32fff36474b&clientCacheKey=3x8wxdtpg2nzsmq_b.mp4&di=78cf8d42&bp=10000&tt=b&ss=vp#https://m.douyin.com/aweme/v1/playwm/?video_id=v0300fg10000cnc0umjc77u9ifdkv3s0&ratio=720p&line=0
@@ -20,102 +16,9 @@ CCTV1,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%B
 环球,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 重温经典,http://mtw.so/5NPX0U
 
-📺央视卫视,#genre#
-CCTV1,http://183.203.182.117:9616/hls/1/index.m3u8
-CCTV2,http://183.203.182.117:9616/hls/2/index.m3u8
-CCTV3,http://183.203.182.117:9616/hls/3/index.m3u8
-CCTV4,http://183.203.182.117:9616/hls/4/index.m3u8
-CCTV5,http://58.19.38.162:9901/tsfile/live/0005_1.m3u8
-CCTV6,http://183.203.182.117:9616/hls/6/index.m3u8
-CCTV7,http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV8,http://183.203.182.117:9616/hls/8/index.m3u8
-CCTV9,http://183.203.182.117:9616/hls/9/index.m3u8
-CCTV10,http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV11,http://183.203.182.117:9616/hls/11/index.m3u8
-CCTV12,http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV13,http://183.203.182.117:9616/hls/13/index.m3u8
-CCTV14,http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
-CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
-CCTV美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
-北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
-东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
-天津卫视,http://183.203.182.117:9616/hls/25/index.m3u8
-重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
-黑龙江卫视,http://183.203.182.117:9616/hls/20/index.m3u8
-山东卫视,http://183.203.182.117:9616/hls/23/index.m3u8
-安徽卫视,http://183.203.182.117:9616/hls/27/index.m3u8
-湖北卫视,http://183.203.182.117:9616/hls/36/index.m3u8
-湖南卫视,http://183.203.182.117:9616/hls/37/index.m3u8
-江苏卫视,http://183.203.182.117:9616/hls/30/index.m3u8
-浙江卫视,http://183.203.182.117:9616/hls/31/index.m3u8
-广东卫视,http://183.203.182.117:9616/hls/40/index.m3u8
-广西卫视,http://218.89.240.144:59901/tsfile/live/0113_1.m3u8
-深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8
 
 
 
-
-📺酒店线路,#genre#
-
-CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
-
-CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
-
-CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
-
-CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
-
-CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
-
-CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
-
-CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
-
-CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
-
-CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
-
-
-CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
-
-CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
-
-CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
-
-CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
-
-CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
-
-CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
-
-CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
-
-CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
-
-CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
-
-CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
-
-凤凰电影,http://quan2018.mycloudnas.com:51888/play/a017/index.m3u8  
-
-凤凰中文,http://quan2018.mycloudnas.com:51888/play/a012/index.m3u8  
-
-
-凤凰资讯,http://quan2018.mycloudnas.com:51888/play/a015/index.m3u8  
-
-凤凰香港,http://110.235.24.100:8800/play/a00m  
-
-STAR1,http://quan2018.mycloudnas.com:51888/play/a00w/index.m3u8  
-
-STARS,http://quan2018.mycloudnas.com:51888/play/a00z/index.m3u8  
-
-STARS2,http://quan2018.mycloudnas.com:51888/play/a00u/index.m3u8  
-
-TV5,http://quan2018.mycloudnas.com:51888/play/a014/index.m3u8  
-
-TVB星河,http://quan2018.mycloudnas.com:51888/play/a00k/index.m3u8
 
 
 
@@ -286,7 +189,39 @@ CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 双鸭山,http://39.134.65.173/PLTV/88888888/224/3221226108/1.m3u8
 CEC国际汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 📺江苏移动,#genre#
-
+📺央视卫视,#genre#
+CCTV1,http://183.203.182.117:9616/hls/1/index.m3u8
+CCTV2,http://183.203.182.117:9616/hls/2/index.m3u8
+CCTV3,http://183.203.182.117:9616/hls/3/index.m3u8
+CCTV4,http://183.203.182.117:9616/hls/4/index.m3u8
+CCTV5,http://58.19.38.162:9901/tsfile/live/0005_1.m3u8
+CCTV6,http://183.203.182.117:9616/hls/6/index.m3u8
+CCTV7,http://183.203.182.117:9616/hls/7/index.m3u8
+CCTV8,http://183.203.182.117:9616/hls/8/index.m3u8
+CCTV9,http://183.203.182.117:9616/hls/9/index.m3u8
+CCTV10,http://183.203.182.117:9616/hls/10/index.m3u8
+CCTV11,http://183.203.182.117:9616/hls/11/index.m3u8
+CCTV12,http://183.203.182.117:9616/hls/12/index.m3u8
+CCTV13,http://183.203.182.117:9616/hls/13/index.m3u8
+CCTV14,http://183.203.182.117:9616/hls/14/index.m3u8
+CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
+CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8
+CCTV欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
+CCTV美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
+北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
+东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
+天津卫视,http://183.203.182.117:9616/hls/25/index.m3u8
+重庆卫视,http://218.89.240.144:59901/tsfile/live/0142_1.m3u8
+黑龙江卫视,http://183.203.182.117:9616/hls/20/index.m3u8
+山东卫视,http://183.203.182.117:9616/hls/23/index.m3u8
+安徽卫视,http://183.203.182.117:9616/hls/27/index.m3u8
+湖北卫视,http://183.203.182.117:9616/hls/36/index.m3u8
+湖南卫视,http://183.203.182.117:9616/hls/37/index.m3u8
+江苏卫视,http://183.203.182.117:9616/hls/30/index.m3u8
+浙江卫视,http://183.203.182.117:9616/hls/31/index.m3u8
+广东卫视,http://183.203.182.117:9616/hls/40/index.m3u8
+广西卫视,http://218.89.240.144:59901/tsfile/live/0113_1.m3u8
+深圳卫视,http://218.89.240.144:59901/tsfile/live/0126_1.m3u8
 
 📺山西地方,#genre#
 
@@ -366,6 +301,11 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 星光影院,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
+爱悬疑,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000036
+爱院线,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000034
+精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
+IPTV野外,http://120.238.84.44:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
+IPTV法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487#http://39.134.64.179:6610/PLTV/88888888/224/3221226330/index.m3u8?#http://php.jdshipin.com:8880/gztv.php?id=fazhi#http://dassby.qqff.top:99/live/法治天地/index.m3u8
 
 
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
