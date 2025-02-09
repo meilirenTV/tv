@@ -28,19 +28,22 @@
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/"},
 			
-{
+	{
 			"key": "csp_UC",
-			"name": "【4KUC】魅力人影视大全{4K不卡源}",
+			"name": "【MIUC4K网盘】魅力人影视大全弹幕",
 			"type": 3,
+			"searchable": 1,
+			"changeable": 0,
 			"api": "csp_Duopan",
 			"filterable": 1,
 			"ext": {
 				"site_urls": [
+					"http://54271.fun/",
 					"http://www.mucpan.cc",
-					"http://ucmi.fun",
-					"http://www.ucmi.fun"
+					"http://milvdou.fun",
+					"http://mucpan.cc"
 				],
-				"url_key": "UC",
+				"url_key": "uc",
 				"token": "",
 				"ucCookie": "",
 				"quarkCookie": "",
@@ -49,7 +52,9 @@
 					"threads": 12
 				}
 			}
-		},		
+		},			
+			
+
 {
 			"key": "csp_Wogg",
 			"name": "【玩偶】魅力人影视大全4K弹幕",
@@ -892,7 +897,7 @@
       "url": "https://www.8090g.cn/jiexi/?url="
  
  },
-
+{"name":"巧技二","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
   {
             "name": "线路1",
             "type": 0,
@@ -927,7 +932,8 @@
     },    
   {"name":"巧记2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url="},   
  
-   {"name":"测试","type":1,"url":"http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=gikopqyBCDJMOTY458&url="},  
+   
+ {"name":"测试2","type":1,"url":"http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=gikopqyBCDJMOTY458&url="}, 
   {
             "name": "线路4",
             "type": 0,
