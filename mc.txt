@@ -89,24 +89,16 @@
 			"api": "csp_MiTuApp",
 			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
 		},			
-  {
-      "key": "人人",
-      "name": "【我为人人】魅力人影视大全4K纯净",
+  
+{
+      "key": " MP4 | JAR",
+      "name": "【MP4电影】魅力人影视大全",
       "type": 3,
-      "api": "csp_Xdai",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
-    },
+      "api": "csp_Mp4br",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/sgj.jar","ext": {}},
 
- {
-      "key": "csp_SuBaiBai",
-      "name": "【白白】魅力影视大全",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://subaibai.com/"
-    },   
   	{
             "key": "csp_DUODUO",
             "name": "【多多】魅力人影视大全{秒播源}",
@@ -177,19 +169,10 @@
 			"filterable": 1
 		},	
 		
-{"key":"T4-6v","name":"【4K磁力】魅力人影视大全","type":4,"api":"https://catbox.n13.club/t7/6v.php"},
+
 
 {"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},			
-  {
-      "key": "寒思",
-      "name": "【寒思】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppRB",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },				
+	
 			
       {
             "key": "农珉",
@@ -205,17 +188,7 @@
                 "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-{lang}-.html;;rcm0"}},
   
  {      "key": "360zy",      "name": "【360】魅力人影视大全",      "type": 1,      "api": "https://360zy.com/api.php/provide/vod?",      "searchable": 1,      "changeable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "古装片",        "悬疑片",        "犯罪片",        "灾难片",        "国产剧",        "香港剧",        "韩国剧",        "欧美剧",        "台湾剧",        "日本剧",        "海外剧",        "泰国剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "欧美动漫",        "日韩动漫",        "现代都市",        "脑洞悬疑",        "年代穿越",        "古装仙侠",        "女频恋爱",        "成长逆袭",        "反转爽剧"      ]    },
- {
-			"key": "csp_视觉",
-			"name": "【视觉】┃魅力人影视大全",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-			"playerType": 2,
-			"filterable": 1
-		},
+
 {
       "key": "taopian",
       "name": "【测试淘片】卡就换源",
@@ -263,14 +236,7 @@
 		 
 
     
-    {
-      "key": "流光影视",
-      "name": "【流光千里】魅力影视大全",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
-    },		
+    
       				
   {
       "key": "拾光☪4KTV",
@@ -386,15 +352,7 @@
     },   
 
         
- {
-      "key": "csp_JPYY",
-      "name": "【文才】魅力人影视大全",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "playerType": 2,
-      "filterable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d","ext": ""},
+
    
  {
       "key": "huohuo",
@@ -444,16 +402,7 @@
       "searchable": 0,
       "filterable": 0,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/HeChengChaXiu.jar","ext": "https://gitlab.com/meoliren/tv/-/raw/main/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
     },	
-    {
-      "key": "csp_XSX",
-      "name": "【视讯】魅力人影视大全",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "csp_Xsx",
-      "playerType": 2,
-      "filterable": 1,"ext": ""},
+    
      
 
     {
@@ -472,7 +421,7 @@
     
     
    
- {"key":"csp_Jpyy","name":"【金牌】魅力影视大全","type":3,"api":"csp_Jpyy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729857428301/PandaQ241025.txt;md5;ab94379331e6c8b9611a8ef63e8c26f6"},     
+ 
 
        
  {
@@ -658,14 +607,8 @@
 			"api": "csp_MiTuApp",
 			"ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM="
 		},
-		{
-			"key": "csp_麻花",
-			"name": "【麻花】魅力人影视大全",
-			"type": 3,
-			"quickSearch": 0,
-			"api": "csp_MiTuApp",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I="
-		},     
+		
+	
 {
       "key": "花姐影院",
       "name": "【花姐影视】魅力人影视大全",
@@ -705,8 +648,7 @@
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"},
 
-{"key":"T4-cctv","name":"其他-央视(T4)","type":4,"api":"https://catbox.n13.club/t7/cctv.php"},
-{"key":"T4-cntv","name":"其他-央视2(T4)","type":4,"api":"https://catbox.n13.club/t7/cntv.php"},
+
   
     
     
@@ -714,7 +656,7 @@
     
      {
       "key": "🌟客星",
-      "name": "客星1080P",
+      "name": "【客星1080P】魅力人影视大全",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
@@ -725,10 +667,10 @@
   
      
 
-{"key":"荐片","name":"荐片影视","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
+{"key":"荐片","name":"【荐片影视】魅力人影视大全","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
  {
       "key": "五五影视",
-      "name": "呜呜蓝光",
+      "name": "【呜呜蓝光】魅力人影视大全",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
@@ -741,7 +683,7 @@
     
     
     
- {"key":"糯米弹幕","name":"糯米弹幕","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428","ext":{"danmu":true}},
+ {"key":"糯米弹幕","name":"【糯米】魅力人影视大全","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428","ext":{"danmu":true}},
     
    
       
@@ -756,7 +698,7 @@
 
   {
       "key": "大师兄",
-      "name": "📽 师兄",
+      "name": "【大师兄影视】魅力人影视大全",
       "type": 3,
       "api": "csp_XBPQ","jar":"https://gitlab.com/meoliren/tv/-/raw/main/1028.jar",
       "ext": {
@@ -766,22 +708,13 @@
       }
     },
  
-{"key":"糖果","name":"🍭糖果┃蓝光┃无广","type":3,"api":"csp_Shark","jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php","playerType":1,"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="},
-	                         
-    
 
-{
-      "key": "💓 MP4 | JAR",
-      "name": "💓 MP4 | JAR",
-      "type": 3,
-      "api": "csp_Mp4br",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/sgj.jar","ext": {}},
+
+
    
      {
       "key": "📺 电视直播 | JAR",
-      "name": "📺 电视直播 | JAR",
+      "name": "【电视直播 】魅力人影视大全",
       "type": 3,
       "api": "csp_Live2Vod",
       "searchable": 0,
@@ -794,7 +727,7 @@
 
 	{
 			"key": "csp_饭团",
-			"name": "饭团影视",
+			"name": "【饭团影视】魅力人影视大全",
 			"type": 3,
 			"searchable": 1,
 			"changeable": 1,
@@ -806,7 +739,7 @@
 		},
 {
       "key": "卧龙资源",
-      "name": "卧龙影视",
+      "name": "【卧龙影视】魅力人影视大全",
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "categories": [
@@ -821,55 +754,17 @@
  
     				 
 
-{"key":"机器人","name":"机器影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"jar":"http://a.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"},
-
-
-{"key":"酷影视","name":"酷影影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"机器人","name":"【机器影视】魅力人影视大全","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"jar":"http://a.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"},
 
 
             
                 
-{
-            "key": "热播",
-            "name": "热播影视",
-            "type": 3,
-             "jar": "http://ftp6295638.host108.abeiyun.cn/tvbox/jar/fix24318.jar",
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "http://v.rbotv.cn"
-        },
 
 
-{"key":"mingriyingshi","name":"明日影视","type":3,"api":"csp_WexMingriys","searchable":1,"quickSearch":1,"filterable":0,"jar":"img+https://mp-064c2f8f-83e1-4bd3-a4a5-103f278b40df.cdn.bspapp.com/cloudstorage/7c4ce5ac-bdfd-431b-b76d-029da9e568d7.bmp;md5;f8bfb62993ffa3eea58f4ecc07147dae"},
-      {
-		"key": "drpy_企鹅",
-		"name": "🐧企鹅┃影视",
-		"type": 3,
-		"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-		"ext": "https://gitee.com/charming-person/tv/raw/master/txjx.js"},        
-
-
-
-             
- 
-
-
-
-		{
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "🌞腾腾┃解析",
-			"type": 3,
-			"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/txtv.js"},
 		
-{"key":"量子资源","name":"量子资源","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","伦理片"]},
+{"key":"量子资源","name":"【量子资源】魅力人影视大全","type":"0","api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","伦理片"]},
 	    	         
- {"key":"非凡资源","name":"非凡资源","type":"0","api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]}],    
+ {"key":"非凡资源","name":"【非凡资源】魅力人影视大全","type":"0","api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":"1","changeable":"1","categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","伦理片","欧美动漫","港台动漫","海外动漫"]}],    
 
 	                   
     
