@@ -1,5 +1,5 @@
-{
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",
+{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739344165585/0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
+
 
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
@@ -30,54 +30,56 @@
 {"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},
 {"key":"Jpys","name": "【金牌影视】魅力人影视大全","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://gitee.com/charming-person/tv/raw/master/fan.txt"},
 			
-	{
-			"key": "csp_UC",
-			"name": "【MIUC4K网盘】魅力人影视大全弹幕",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 0,
-			"api": "csp_Duopan",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"http://54271.fun/",
-					"http://www.mucpan.cc",
-					"http://milvdou.fun",
-					"http://mucpan.cc"
-				],
-				"url_key": "uc",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},			
-			
+	
+  {
+      "key": "csp_UC",
+      "name": "【MIUC4K弹幕】魅力人影视大全",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://mucpan.cc",
+          "https://www.mucpan.cc",
+          "http://54271.fun/",
+          "http://milvdou.fun"
+        ],
+        "url_key": "uc",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 256,
+          "threads": 10
+        }
+      }
+    },
+    
+    {
+      "key": "csp_Wogg",
+      "name": "【玩偶4K弹幕】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Wogg",
+      "changeable": 0,
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://woggpan.333232.xyz/",
+          "http://wogg.xxooo.cf/",
+          "http://woggapi.888484.xyz/",
+          "http://www.wogg.net"
+        ],
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 12
+        }
+      }
+    },			
 
-{
-			"key": "csp_Wogg",
-			"name": "【玩偶】魅力人影视大全4K弹幕",
-			"type": 3,
-			"api": "csp_Wogg",
-			"changeable": 0,
-			"searchable": 1,
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"http://woggpan.333232.xyz/",
-					"http://wogg.xxooo.cf/",
-					"http://woggapi.888484.xyz/",
-					"http://www.wogg.net"
-				],
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},	
+
 {
 			"key": "csp_Wetv",
 			"name": "【尘落】魅力人影视大全",
