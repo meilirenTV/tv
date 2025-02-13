@@ -26,8 +26,24 @@
 			"playerType": 2,
 			"changeable": 0,
 			"api": "csp_Wwys",
-			"ext": "https://www.wwgz.cn/"},
-{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},
+			"ext":"https://www.wwgz.cn/"}, 
+ {
+      "key": "csp_SuBaiBai",
+      "name": "【白白秒播源】魅力人影视大全",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_SuBaiBai",
+      "playerType": 2,
+      "ext": "https://www.subaibaiys.com/"
+    },		
+   {
+      "key": "csp_AppRR",
+      "name": "【人人1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRR",
+      "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
+    },   	
+
 {"key":"Jpys","name": "【金牌影视】魅力人影视大全","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://gitee.com/charming-person/tv/raw/master/fan.txt"},
 			
 	
@@ -79,12 +95,11 @@
       }
     },			
 
-
 {
-			"key": "csp_Wetv",
+	"key": "csp_Wetv",
 			"name": "【尘落】魅力人影视大全",
 			"type": 3,
-			"api": "csp_Wetv"
+			"api": "csp_Lgyy"
 		},				
 	{"key": "csp_yumi","name": "【玉米】魅力人影视大全{秒播源}",
 			"type": 3,
@@ -406,7 +421,7 @@
       "searchable": 0,
       "filterable": 0,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/HeChengChaXiu.jar","ext": "https://gitlab.com/meoliren/tv/-/raw/main/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
     },	
-    
+ {"key":"cctv","name":"【央视大全】魅力人影视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/央视大全.json","jar": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/HeChengChaXiu7.jar"},  
      
 
     {
@@ -754,7 +769,7 @@
       ]
     },
  
-    
+{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},    
  
     				 
 
