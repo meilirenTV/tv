@@ -27,28 +27,15 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
- {
-      "key": "csp_SuBaiBai",
-      "name": "【白白秒播源】魅力人影视大全",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://www.subaibaiys.com/"
-    },		
+{"key":"巧技","name":"【多线影视】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/1739704196981ee4d1db22ed5d0fe67dc73c5402d65321739704163.jpg","jar": "http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8"},			
+
    {
       "key": "csp_LiteApple",
       "name": "【小苹果】魅力人影视大全",
       "type": 3,
       "api": "csp_LiteApple"
     },   
-   {
-      "key": "csp_AppRR",
-      "name": "【人人1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppRR",
-      "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ=="
-    },   	
+
 
 {"key":"Jpys","name": "【金牌影视】魅力人影视大全","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://gitee.com/charming-person/tv/raw/master/fan.txt"},
 			
@@ -107,13 +94,7 @@
 			"type": 3,
 			"api": "csp_Lgyy"
 		},				
-	{"key": "csp_yumi","name": "【玉米】魅力人影视大全{秒播源}",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_MiTuApp",
-			"ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
-		},			
+	
   
 {
       "key": " MP4 | JAR",
@@ -124,23 +105,9 @@
       "quickSearch": 1,
       "changeable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/sgj.jar","ext": {}},
 
-  	{
-            "key": "csp_DUODUO",
-            "name": "【多多】魅力人影视大全{秒播源}",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-        },    	 
-{"key":"农民影视","name":"【农民影视】魅力人影视大全{秒播源}","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819"},		
- {
-            "key": "csp_AppDrama2",
-            "name": "【虎虎】魅力人影视大全{秒播源}",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
-        },	
+  	
+	
+
  {
       "key": "csp_Nmys",
       "name": "【伯伯秒播】魅力人影视大全{秒播源}",
@@ -150,25 +117,10 @@
       "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"
     },			
 
-{
-			"key": "csp_Xlys",
-			"name": "【哔嘀】魅力人影视大全{秒播源}",
-			"api": "csp_Xlys",
-			"searchable": 1,
-			"type": 3,
-			"playerType": 2
-		},	
- {
-      "key": "图图",
-      "name": "【图图】魅力人影视大全{4K源}",
-      "type": 3,
-      "api": "csp_APPTT",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "playerType": 1,
-      "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-    },		 
+
+
 {"key":"新6V","name": "【新6V磁力】魅力人影视大全","type":3,"api":"csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://gitee.com/charming-person/tv/raw/master/202501.jar","ext": "http://www.xb6v.com/"},   
-{"key": "csp_XBPQ_6V","name": "【四季4.K】魅力人影视大全","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar" : "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/bh.jar","ext":"https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/bh.json"},        
+
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
