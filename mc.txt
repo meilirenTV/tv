@@ -27,8 +27,16 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
-{"key":"巧技","name":"【多线影视】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://alicliimg.clewm.net/342/790/68790342/1739704196981ee4d1db22ed5d0fe67dc73c5402d65321739704163.jpg","jar": "http://cdn.qiaoji8.com/fix250217.jar;md5;af43496cbaaf5b4734fd2bfdaf3359a8"},			
 
+    {
+      "key": "二三",
+      "name": "【二三蓝光】魅力人影视大全纯净",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
    {
       "key": "csp_LiteApple",
       "name": "【小苹果】魅力人影视大全",
@@ -37,7 +45,7 @@
     },   
 
 
-{"key":"Jpys","name": "【金牌影视】魅力人影视大全","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://gitee.com/charming-person/tv/raw/master/fan.txt"},
+
 			
 	
   {
@@ -394,7 +402,17 @@
       "changeable": 0
     },			
 			
-
+  {
+      "key": "js_subaibai",
+      "name": "【白白影视】魅力人影视大全",
+      "type": 3,
+      "api": "http://rihou.cc:55/lib/drpy_libs/drpy2.min.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.cc:55/lib/素白白[优].js"
+    },
     
     
    
@@ -574,7 +592,7 @@
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
     "手动嗅探视频链接过滤词": ".html#=http"}
 },
-{"key":"闹闹","name":"【闹闹影视】魅力人影视大全","type":3,"api":"csp_Xdai","searchable":1,"changeable":1,"ext":"caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw","jar":"https://git.acwing.com/meiliren/tv/-/raw/main/qj.jar;md5;ab2b0ddad5e1f7fa6bd2b295eea6d0d5"},
+
 
  {
 			"key": "csp_良人",
@@ -656,21 +674,6 @@
       "filterable": 1,
       "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
     },
-
-    
-    
-    
- {"key":"糯米弹幕","name":"【糯米】魅力人影视大全","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428","ext":{"danmu":true}},
-    
-   
-      
-    
-    
-    
-      
-    
-
-  
  
 
   {
