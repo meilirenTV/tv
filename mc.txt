@@ -1,6 +1,5 @@
-{//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739344165585/0213.jar;md5;70effefd63a42d7a2e7857101e7e99fb",
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae",
-
+{
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -27,7 +26,9 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
-
+{"key":"巧技一","name":"【多线路影院】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+{"key":"玉米","name":"【玉米影院】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+{"key":"优质","name":"【优质App】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
     {
       "key": "二三",
       "name": "【二三蓝光】魅力人影视大全纯净",
