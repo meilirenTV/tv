@@ -1,5 +1,5 @@
-{
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar;md5;f30775df2600460567dc599fd044be81",
+{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",
+
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -26,7 +26,26 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
+   {
+            "key": "天天影视",
+            "name": "【天天】魅力人影视大全",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"}, 
+ 			
+			
 {"key":"巧技一","name":"【多线路影院】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+
+    {
+      "key": "小猫",
+      "name": "【小猫1080P】魅力人影视大全",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
+    },
 {"key":"玉米","name":"【玉米影院】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
 {"key":"优质","name":"【优质App】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
     {
@@ -117,14 +136,7 @@
   	
 	
 
- {
-      "key": "csp_Nmys",
-      "name": "【伯伯秒播】魅力人影视大全{秒播源}",
-      "type": 3,
-      "api": "csp_WexNmysGuard",
-      "searchable": 1,
-      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736697750414/wex.txt;md5;84a77c1e614adefebc585ad068d113d4"
-    },			
+	
 
 
 
@@ -352,15 +364,7 @@
 
  
   
-   {
-            "key": "天天影视",
-            "name": "【天天】魅力人影视大全",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"}, 
- 
+
 
        
    
