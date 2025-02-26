@@ -26,46 +26,18 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
-   {
-            "key": "天天影视",
-            "name": "【天天】魅力人影视大全",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"}, 
- 			
-			
-{"key":"巧技一","name":"【多线路影院】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
-
-    {
-      "key": "小猫",
-      "name": "【小猫1080P】魅力人影视大全",
+{
+      "key": "瓜子",
+      "name": "【瓜子】魅力人影视大全",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
-    },
-{"key":"玉米","name":"【玉米影院】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
-{"key":"优质","name":"【优质App】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
-    {
-      "key": "二三",
-      "name": "【二三蓝光】魅力人影视大全纯净",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-    },
-   {
-      "key": "csp_LiteApple",
-      "name": "【小苹果】魅力人影视大全",
-      "type": 3,
-      "api": "csp_LiteApple"
-    },   
-
-
-
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0
+    },					
+{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},	
 {
       "key": "config",
       "name": "【云盘配置中心】 UC扫两次码",
@@ -98,7 +70,93 @@
           "threads": 12
         }
       }
-    },	
+    },		
+ {
+      "key": "花姐影院",
+      "name": "【花姐影视】魅力人影视大全",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://git.acwing.com/meiliren/tv/-/raw/main/wex.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "数组": "fed-lazy&&</a>",
+        "副标题": "fed-text-center\">&&</span",
+        "简介": "fed-matp-v\">&&</div",
+        "线路数组": "href=\"\\#playlist&&</li>",
+        "线路标题": "</i>&&</a>",
+        "播放数组": "<ul class=\"myui-content__list&&</ul",
+        "跳转播放链接": "var now=\"&&\"",
+        "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
+        "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4"
+      }
+    },   
+    								
+   {
+            "key": "天天影视",
+            "name": "【天天】魅力人影视大全",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"}, 
+ 			
+    {
+      "key": "白白",
+      "name": "【白白秒播】魅力人影视大全",
+      "type": 3,
+      "api": "csp_SbaibaiGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740568619528/f0226a.txt;md5;925a350dec8cef32186a919fe28e2fe4"
+    },			
+{"key":"巧技一","name":"【多线路影院】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+ {
+      "key": "文才",
+      "name": "【文一】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar",
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },   
+    {
+      "key": "小猫",
+      "name": "【小猫1080P】魅力人影视大全",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
+    },
+{"key":"玉米","name":"【玉米影院】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95b3V5b3V0dS0xMzE5MjA5NzQ4LmNvcy5hcC1jaGVuZ2R1Lm15cWNsb3VkLmNvbS93RjlvQTRmRDh4Rzh4RzVxLnR4dHxkUzl0WTVuSzR0WDlvSTFqfGRTOXRZNW5LNHRYOW9JMWp8NDQy","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+{"key":"优质","name":"【优质App】魅力人影视大全","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},
+    {
+      "key": "二三",
+      "name": "【二三蓝光】魅力人影视大全纯净",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+    },
+   {
+      "key": "csp_LiteApple",
+      "name": "【小苹果】魅力人影视大全",
+      "type": 3,
+      "api": "csp_LiteApple"
+    },   
+
+
+
+
   
     
     
@@ -156,7 +214,7 @@
 		
 
 
-{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},			
+
 	
 			
       {
@@ -322,19 +380,7 @@
 			"ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
 		}, 
  {"key":"剧评","name":"【剧评】魅力人影视大全","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar":"https://gitlab.com/meoliren/tv/-/raw/main/qj.jar"},
- {
-      "key": "文才",
-      "name": "【文一】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },   
+
 
         
 
@@ -382,30 +428,9 @@
  {"key":"cctv","name":"【央视大全】魅力人影视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/央视大全.json","jar": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/HeChengChaXiu7.jar"},  
      
 
-    {
-      "key": "瓜子",
-      "name": "【瓜子】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0
-    },			
+    	
 			
-  {
-      "key": "js_subaibai",
-      "name": "【白白影视】魅力人影视大全",
-      "type": 3,
-      "api": "http://rihou.cc:55/lib/drpy_libs/drpy2.min.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://rihou.cc:55/lib/素白白[优].js"
-    },
-    
+  
     
    
  
@@ -596,29 +621,7 @@
 		},
 		
 	
-{
-      "key": "花姐影院",
-      "name": "【花姐影视】魅力人影视大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.acwing.com/meiliren/tv/-/raw/main/wex.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "fed-lazy&&</a>",
-        "副标题": "fed-text-center\">&&</span",
-        "简介": "fed-matp-v\">&&</div",
-        "线路数组": "href=\"\\#playlist&&</li>",
-        "线路标题": "</i>&&</a>",
-        "播放数组": "<ul class=\"myui-content__list&&</ul",
-        "跳转播放链接": "var now=\"&&\"",
-        "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-        "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-        "分类": "电视剧&电影&综艺&动漫",
-        "分类值": "2&1&3&4"
-      }
-    },
+
  {
       "key": "柠檬", 
       "name": "【柠檬影视】魅力人影视大全", 
