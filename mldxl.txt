@@ -26,7 +26,7 @@
       "name": "魅力人T4影视凯速"
     },    
      {
-      "url":"http://yun.yunqiji.vip/yunfensi/fensi4kyun.json  ",
+      "url":"http://110.42.45.218:520/yunfensi/yunfensi4k.json ",
       "name": "魅力人奇迹云影视"
     },  
 
@@ -58,8 +58,8 @@
     
     
     {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "🚀摸鱼儿线🚀"
+      "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+      "name": "🚀700线🚀"
     },
    
    
