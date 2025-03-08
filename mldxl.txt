@@ -14,7 +14,7 @@
     },  
    
    {
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mldxl.txt",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
       "name": "魅力人影视4"
     },  
   {

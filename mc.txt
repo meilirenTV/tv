@@ -6,9 +6,9 @@
 
 "lives":[
 
-{"name":"魅力人IPTV1","type":0,"url":"https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/zhibo.txt?t=202501116","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
+{"name":"魅力人IPTV1","type":0,"url":"https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
 {"name":"魅力人IPTV2","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt?ref_type=heads","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
-{"name":"魅力人IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/IPTV.m3u","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"魅力人IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 
 {"name":"魅力人IPTV4","type":0,"url":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E7%9B%B4%E6%92%AD",
@@ -187,7 +187,7 @@
 
 {"key":"新6V","name": "【新6V磁力】魅力人影视大全","type":3,"api":"csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://gitee.com/charming-person/tv/raw/master/202501.jar","ext": "http://www.xb6v.com/"},   
 
-{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
+{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
 
 
      		
@@ -195,7 +195,7 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "【腾讯视频正版】魅力人影视大全",
 			"type": 3,
-			"api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
+			"api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
 
 
      		
@@ -436,16 +436,7 @@
  
 
        
- {
-      "key": "csp_红狐狸影视",
-      "name": "【狐狸】魅力影视大全",
-      "type": 3,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/ttkx.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类": "魅力人电影$1#魅力人电视剧$2#魅力人综艺$3#魅力人动漫$4"
-      }
-    },     
+ 
    {
       "key": "文才",
       "name": "【文才】魅力人影视大全",
