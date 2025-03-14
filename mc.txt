@@ -1,5 +1,5 @@
-{
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740553585257/0226.jar;md5;cdc1485ea07ff1acfd9cd630fa11fc36",
+{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741945467175/0316.jar;md5;51dc2342c1e48011abea02232666681a",
+
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -26,7 +26,23 @@
 			"changeable": 0,
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
-{"key":"巧技一","name":"【多线路影院】魅力人影视大全","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"http://cdn.qiaoji8.com/fix250220.jar;md5;393f3ebf67121882ac489600aa8b57b7"},			
+ {
+      "key": "天天",
+      "name": "【天天1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+   {
+      "key": "悠悠",
+      "name": "【悠悠┃1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "quickSearch": 1,
+      "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
+    },   
 {
       "key": "瓜子",
       "name": "【瓜子】魅力人影视大全",
@@ -39,6 +55,7 @@
       "changeable": 0
     },					
 {"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},	
+
 {
       "key": "config",
       "name": "【云盘配置中心】 UC扫两次码",
@@ -73,18 +90,9 @@
       }
     },		
     
-     {
-      "key": "悠悠",
-      "name": "【悠悠1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "quickSearch": 1,
-      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS44",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
-    },   
- {"key":"油条","name":"【油条App】魅力人影视大全","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS45","jar":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
- {"key":"23ys","name":"【二三App】魅力人影视大全","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
+     
+
+
  {
       "key": "花姐影院",
       "name": "【花姐影视】魅力人影视大全",
