@@ -27,6 +27,12 @@
 			"api": "csp_Wwys",
 			"ext":"https://www.wwgz.cn/"}, 
  {
+      "key": "csp_Jpys",
+      "name": "【金牌1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_JpysGuard"
+    },			
+ {
       "key": "天天",
       "name": "【天天1080P】魅力人影视大全",
       "type": 3,
@@ -89,7 +95,20 @@
         }
       }
     },		
-    
+    {
+      "key": "热热",
+      "name": "【热热1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
+    {
+      "key": "追剧",
+      "name": "【追剧1080P】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+    }, 
      
 
 
