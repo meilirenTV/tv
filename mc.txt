@@ -24,7 +24,7 @@
 			"type": 3,
 			"playerType": 2,
 			"changeable": 0,
-			"api": "csp_Wwys",
+			"api": "csp_WwysGuard",
 			"ext":"https://www.wwgz.cn/"}, 
  {
       "key": "csp_Jpys",
@@ -50,7 +50,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
     },   
     
-  
+{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_JpysGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},     
 {
       "key": "瓜子",
       "name": "【瓜子】魅力人影视大全",
@@ -132,18 +132,9 @@
         "分类值": "2&1&3&4"
       }
     },   
-    								
-   {
-            "key": "天天影视",
-            "name": "【天天】魅力人影视大全",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/spider.jar"}, 
+
  			
-    {
-      "key": "白白",
+  { "key": "白白",
       "name": "【白白秒播】魅力人影视大全",
       "type": 3,
       "api": "csp_SbaibaiGuard",
@@ -152,6 +143,7 @@
       "quickSearch": 1,
       "changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740568619528/f0226a.txt;md5;925a350dec8cef32186a919fe28e2fe4"
     },			
+
 
  {
       "key": "文才",
@@ -586,30 +578,9 @@
       "playerType": 2, 
       "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
     },  
-  {
-      "key": "csp_Quanwk",
-      "name": "【全看影视】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "ext": "https://www.91qkw.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"},
 
 
-  
-    
-    
-
-    
-     {
-      "key": "🌟客星",
-      "name": "【客星1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
-    },
-
-  
+ 
      
 
 {"key":"荐片","name":"【荐片影视】魅力人影视大全","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
@@ -657,20 +628,9 @@
 			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
 			"ext": "https://fantuan.vip/","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"
 		},
-{
-      "key": "卧龙资源",
-      "name": "【卧龙影视】魅力人影视大全",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "恐怖片",
-        "动作片"
-      ]
-    },
+
  
-{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},    
+ 
  
     				 
 
