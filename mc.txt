@@ -56,7 +56,7 @@
       "name": "【瓜子】魅力人影视大全",
       "type": 3,
       "api": "csp_Gz360Guard"},					
-{"key":"移动云盘","name":"【移动】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506"},	
+{"key":"移动云盘","name":"【移动云盘】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://123.yp22.cn/d/lz/isqWQ2hstv0d"},	
 
 {
       "key": "config",
