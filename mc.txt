@@ -57,7 +57,15 @@
       "type": 3,
       "api": "csp_Gz360Guard"},					
 {"key":"移动云盘","name":"【移动云盘】魅力人影视大全","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://123.yp22.cn/d/lz/isqWQ2hstv0d"},	
-
+{
+      "key": "巧技",
+      "name": "《技巧🔹秒播》",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"https://7337.kstore.space/twvip/jar/tvkj.jar"
+    },
+{"key":"追剧弹幕","name":"《追剧🔹弹幕》","type":3,"api":"https://7337.kstore.space/twvip/JS/drpy2.min.js","ext":"https://7337.kstore.space/twvip/JS/追剧弹幕.js"},
 {
       "key": "config",
       "name": "【云盘配置中心】 UC扫两次码",
@@ -199,11 +207,7 @@
 
 
      		
-  {
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "【腾讯视频正版】魅力人影视大全",
-			"type": 3,
-			"api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","ext": "https://gitee.com/charming-person/tv/raw/master/meiliren.js"},	
+  
 
 
      		
