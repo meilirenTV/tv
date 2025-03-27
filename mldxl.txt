@@ -1,9 +1,11 @@
 { "urls": [
 
+ 
  {
-      "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
-      "name": "魅力人影院1"
+      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "name": "魅力人影视1"
     }, 
+
   {
       "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
       "name": "魅力人影视2"
@@ -17,9 +19,8 @@
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
       "name": "魅力人影视4"
     },  
-  {
-      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
-      "name": "魅力人影视5"
+      {  "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
+      "name": "魅力人影院5"
     }, 
    {
       "url":"https://d.kstore.dev/download/12020/t4.json",
