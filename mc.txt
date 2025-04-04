@@ -26,6 +26,28 @@
 			"changeable": 0,
 			"api": "csp_WwysGuard",
 			"ext":"https://www.wwgz.cn/"}, 
+			
+{
+      "key": "23ys",
+      "name": "🐠云数🐠┃1080P",
+      "type": 3,
+      "api": "csp_Muou",
+      "jar": "http://110.42.45.218:520/yunfensi/jar/yunqj250217.jar",
+      "playerType": 2,
+      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+      },	
+{
+      "key": "云w",
+			"name": "🐠飞升星云🐠",
+			"type": 3,
+		  "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
+		  "jar": "http://110.42.45.218:520/yunfensi/jar/yunw.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "http://110.42.45.218:520/yunfensi/lib/云影视.js"
+},      		
 {"key":"奇妙","name":"【奇妙1080P】魅力人影视大全","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},			
 			
  {
@@ -189,7 +211,7 @@
 
 {"key":"新6V","name": "【新6V磁力】魅力人影视大全","type":3,"api":"csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://gitee.com/charming-person/tv/raw/master/202501.jar","ext": "http://www.xb6v.com/"},   
 
-{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitee.com/charming-person/tv/raw/master/mei.js"},
+{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://110.42.45.218:520/yunfensi/lib/极米2.js"},
      		
 			
       {
