@@ -26,10 +26,16 @@
 			"changeable": 0,
 			"api": "csp_WwysGuard",
 			"ext":"https://www.wwgz.cn/"}, 
-			
+{
+      "key": "潮流",
+      "name": "【潮流影视】魅力人影视大全",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
+    },			
 {
       "key": "23ys",
-      "name": "【云数1080P】",
+      "name": "【云数1080P】魅力人影视大全",
       "type": 3,
       "api": "csp_Muou",
       "jar": "http://110.42.45.218:520/yunfensi/jar/yunqj250217.jar",
@@ -38,7 +44,7 @@
       },	
 {
       "key": "云w",
-			"name": "【飞升星云】",
+			"name": "【飞升星云】魅力人影视大全",
 			"type": 3,
 		  "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
 		  "jar": "http://110.42.45.218:520/yunfensi/jar/yunw.jar",
@@ -102,7 +108,7 @@
 		},
 		{
 			"key": "csp_UC",
-			"name": "【4k需要扫码小米UC123】",
+			"name": "【4k需要扫码小米UC123】魅力人影视大全",
 			"type": 3,
 			"changeable": "0",
 			"quickSearch": 1,
@@ -427,7 +433,7 @@
             "api": "csp_Web1905",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,"jar":"http://rihou.cc:55/微信公众号开心软件"
+            "filterable": 0,"jar":"http://wang.qijiyun.vip/yunzc/jar/ttkx.jar"
         },    
  {
       "key": "qysp",
