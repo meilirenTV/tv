@@ -17,21 +17,26 @@
 "sites":
  [
  //{"key":"魅力人","name":"本影视软件有(魅力人)🐂长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
- 
- {
-			"key": "csp_Wwys",
-			"name": "【魅力影院】魅力人影视大全{秒播源}",
-			"type": 3,
-			"playerType": 2,
-			"changeable": 0,
-			"api": "csp_WwysGuard",
-			"ext":"https://www.wwgz.cn/"}, 
+  {
+      "key": "csp_Wwys",
+      "name": "【农民影视】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"},
+       
+    {
+      "key": "csp_Quanwk",
+      "name": "【全看影视】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"},   
+
 {
       "key": "潮流",
       "name": "【潮流影视】魅力人影视大全",
       "type": 3,
       "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar": "http://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
     },			
 {
       "key": "23ys",
@@ -52,7 +57,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "http://110.42.45.218:520/yunfensi/lib/云影视.js"
+			"ext": "http://110.42.45.218:520/yunfensi/lib/%E4%BA%91%E5%BD%B1%E8%A7%86.js"
 },      		
 {"key":"奇妙","name":"【奇妙1080P】魅力人影视大全","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},		{"key":"移动","name":"【移动网盘影视】","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp?&Du0"},	
 			
