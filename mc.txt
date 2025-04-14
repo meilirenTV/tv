@@ -23,14 +23,26 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"},
-       
+  {
+      "key": "星辉",
+      "name": "【天天影视】",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK","jar": "http://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
+    },      
     {
       "key": "csp_Quanwk",
       "name": "【全看影视】魅力人影视大全",
       "type": 3,
       "api": "csp_Quanwk",
       "ext": "https://www.91qkw.com","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"},   
-
+ 
+    {
+      "key": "梦回",
+      "name": "【梦回影视】",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM","jar": "http://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"},
 {
       "key": "潮流",
       "name": "【潮流影视】魅力人影视大全",
@@ -43,37 +55,56 @@
       "name": "【云数1080P】魅力人影视大全",
       "type": 3,
       "api": "csp_Muou",
-      "jar": "http://110.42.45.218:520/yunfensi/jar/yunqj250217.jar",
+      "jar": "http://110.40.74.165:666/yunfensi/jar/yunqj250217.jar",
       "playerType": 2,
       "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
       },	
-{
+  {
       "key": "云w",
 			"name": "【飞升星云】魅力人影视大全",
 			"type": 3,
 		  "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
-		  "jar": "http://110.42.45.218:520/yunfensi/jar/yunw.jar",
+		  "jar": "http://110.40.74.165:666/yunfensi/jar/yunw.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "http://110.42.45.218:520/yunfensi/lib/%E4%BA%91%E5%BD%B1%E8%A7%86.js"
-},      		
+			"ext": "http://110.40.74.165:666/yunfensi/lib/云影视.js"},
+
+
+
+
+   
+ 
+  
+ 
+ 
+
+      
+    {
+      "key": "csp_Kuaikan",
+      "name": "【快看影视】魅力人影视大全",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "jar": "http://110.40.74.165:666/yunfensi/jar/香云.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1},     
+      
+  
+  
+ 
+	
+
 {"key":"奇妙","name":"【奇妙1080P】魅力人影视大全","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},		{"key":"移动","name":"【移动网盘影视】","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp?&Du0"},	
 			
  {
       "key": "csp_Jpys",
       "name": "【金牌1080P】魅力人影视大全",
       "type": 3,
-      "api": "csp_JpysGuard"
+      "api": "csp_Jpys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744455885565/custom_spider.jar"
     },			
- {
-      "key": "天天",
-      "name": "【天天1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-    },
+ 
    {
       "key": "悠悠",
       "name": "【悠悠1080P】魅力人影视大全",
@@ -85,7 +116,7 @@
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
     },   
     
-{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_JpysGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/"},     
+{"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744455885565/custom_spider.jar"},     
 {
       "key": "瓜子",
       "name": "【瓜子】魅力人影视大全",
@@ -231,8 +262,7 @@
 
 {"key":"新6V","name": "【新6V磁力】魅力人影视大全","type":3,"api":"csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://gitee.com/charming-person/tv/raw/master/202501.jar","ext": "http://www.xb6v.com/"},   
 
-{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://110.42.45.218:520/yunfensi/lib/极米2.js"},
-     		
+{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://110.40.74.165:666/yunfensi/lib/极米2.js"},  		
 			
       {
             "key": "农珉",
