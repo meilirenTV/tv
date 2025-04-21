@@ -17,6 +17,19 @@
 "sites":
  [
  //{"key":"魅力人","name":"本影视软件有(魅力人)🐂长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
+ 
+ {
+            "key": "农珉",
+            "name": "【农民】魅力人影视大全",
+            "type": 3,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar","api": "csp_XBPQ",
+            "ext":{
+            "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+           "搜索url": "/search.php;post;searchword={wd}",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "魅力人专线",
+                "分类": "魅力人电影$5#魅力人国产剧$12#魅力人短剧$26#魅力人动漫$4#魅力人综艺$3",
+                "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-{lang}-.html;;rcm0"}},
   {
       "key": "csp_Wwys",
       "name": "【农民影视】魅力人影视大全",
@@ -63,7 +76,7 @@
       "key": "云w",
 			"name": "【飞升星云】魅力人影视大全",
 			"type": 3,
-		  "api": "http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js",
+		  "api": "http://wang.qijiyun.vip/云蓝光专线/drpy_libs/drpy2.min.js",
 		  "jar": "http://110.40.74.165:666/yunfensi/jar/yunw.jar",
 			"searchable": 1,
 			"quickSearch": 1,
@@ -71,14 +84,6 @@
 			"order_num": 0,
 			"ext": "http://110.40.74.165:666/yunfensi/lib/云影视.js"},
 
-
-
-
-   
- 
-  
- 
- 
 
       
     {
@@ -264,18 +269,7 @@
 
 {"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://110.40.74.165:666/yunfensi/lib/极米2.js"},  		
 			
-      {
-            "key": "农珉",
-            "name": "【农民】魅力人影视大全",
-            "type": 3,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar","api": "csp_XBPQ",
-            "ext":{
-            "请求头": "User-Agent$MOBILE_UA",
-       "编码": "UTF-8",
-           "搜索url": "/search.php;post;searchword={wd}",
-        "线路数组": "<h3&&/h3>",
-        "线路标题": "魅力人专线",
-                "分类": "魅力人电影$5#魅力人国产剧$12#魅力人短剧$26#魅力人动漫$4#魅力人综艺$3",
-                "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-{lang}-.html;;rcm0"}},
+      
   
  {      "key": "360zy",      "name": "【360】魅力人影视大全",      "type": 1,      "api": "https://360zy.com/api.php/provide/vod?",      "searchable": 1,      "changeable": 1,      "categories": [        "动作片",        "喜剧片",        "爱情片",        "科幻片",        "恐怖片",        "剧情片",        "战争片",        "古装片",        "悬疑片",        "犯罪片",        "灾难片",        "国产剧",        "香港剧",        "韩国剧",        "欧美剧",        "台湾剧",        "日本剧",        "海外剧",        "泰国剧",        "大陆综艺",        "港台综艺",        "日韩综艺",        "欧美综艺",        "国产动漫",        "欧美动漫",        "日韩动漫",        "现代都市",        "脑洞悬疑",        "年代穿越",        "古装仙侠",        "女频恋爱",        "成长逆袭",        "反转爽剧"      ]    },
 
@@ -396,10 +390,10 @@
 			"order_num": 0,
 			"changeable": 0,
 			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"}, 
-	
+{"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i","jar":"http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},	
 
 		
- {"key":"剧评","name":"【剧评】魅力人影视大全","type":3,"api":"csp_Jpys","playerType":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar":"https://gitlab.com/meoliren/tv/-/raw/main/qj.jar"},
+
 
         
  {
@@ -593,12 +587,12 @@
       "name": "【柠檬影视】魅力人影视大全", 
       "type": 3, 
       "api": "csp_Nmvod", 
-      "jar": "http://cdn.qiaoji8.com/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f",
+      "jar": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
       "playerType": 2, 
-      "ext": "eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"
     },  
 
-
+{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"},
  
      
 
