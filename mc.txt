@@ -63,46 +63,10 @@
       "api": "csp_AppRJ",
       "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb","jar": "http://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
     },			
-{
-      "key": "23ys",
-      "name": "【云数1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Muou",
-      "jar": "http://110.40.74.165:666/yunfensi/jar/yunqj250217.jar",
-      "playerType": 2,
-      "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
-      },	
-  {
-      "key": "云w",
-			"name": "【飞升星云】魅力人影视大全",
-			"type": 3,
-		  "api": "http://wang.qijiyun.vip/云蓝光专线/drpy_libs/drpy2.min.js",
-		  "jar": "http://110.40.74.165:666/yunfensi/jar/yunw.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "http://110.40.74.165:666/yunfensi/lib/云影视.js"},
 
-
-      
-    {
-      "key": "csp_Kuaikan",
-      "name": "【快看影视】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "http://110.40.74.165:666/yunfensi/jar/香云.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},     
-      
-  
-  
- 
+{"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"http://74.120.175.78/JK/XYQTVBox/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
 	
-
-{"key":"奇妙","name":"【奇妙1080P】魅力人影视大全","type":3,"quickSearch":0,"api":"csp_AppGetGuard","ext":"sHR2rlsfjI4L3t4RXQMknxpI3MBzuaDrH2PsBQxC38op5hYp0OZbDn4iJ615slmjVd+iI7Tl5Ue0Vm2GojmSTYMGSFh2aRBmEOKQ0locA9dvNXmz6vCgBlpFeFm/CQ3n1ep2SM+/awX6EoPD8V5c70mEnJDaI5kqnSlhF/wZJ/r0iCysTPux83KtOhToHnBg/VshjW3X7hDXcrKCadFsFw=="},		{"key":"移动","name":"【移动网盘影视】","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp?&Du0"},	
-			
+		
  {
       "key": "csp_Jpys",
       "name": "【金牌1080P】魅力人影视大全",
@@ -110,16 +74,7 @@
       "api": "csp_Jpys","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744455885565/custom_spider.jar"
     },			
  
-   {
-      "key": "悠悠",
-      "name": "【悠悠1080P】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "quickSearch": 1,
-      "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
-    },   
+
     
 {"key": "界影视","name": "【影界】魅力人影视大全","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hkybqufgh.com/","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744455885565/custom_spider.jar"},     
 {
@@ -147,32 +102,7 @@
 			"filterable": 1,
 			"ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
 		},
-		{
-			"key": "csp_UC",
-			"name": "【4k需要扫码小米UC123】魅力人影视大全",
-			"type": 3,
-			"changeable": "0",
-			"quickSearch": 1,
-			"api": "csp_DuopanGuard",
-			"filterable": 1,
-			"ext": {
-				"site_urls": [
-					"https://www.54271.fun/",
-					"https://54271.fun/",
-					"https://www.mucpan.cc/",
-					"https://mucpan.cc/"
-				],
-				"url_key": "UC",
-				"token": "",
-				"ucCookie": "",
-				"quarkCookie": "",
-				"threadinfo": {
-					"chunksize": 400,
-					"threads": 12
-				}
-			}
-		},
-
+		
       
     {
       "key": "热热",
@@ -191,29 +121,7 @@
      
 
 
- {
-      "key": "花姐影院",
-      "name": "【花姐影视】魅力人影视大全",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://git.acwing.com/meiliren/tv/-/raw/main/wex.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "数组": "fed-lazy&&</a>",
-        "副标题": "fed-text-center\">&&</span",
-        "简介": "fed-matp-v\">&&</div",
-        "线路数组": "href=\"\\#playlist&&</li>",
-        "线路标题": "</i>&&</a>",
-        "播放数组": "<ul class=\"myui-content__list&&</ul",
-        "跳转播放链接": "var now=\"&&\"",
-        "搜索url": "https://www.huajie2.com/search.php?page={pg}&searchword={wd}&searchtype=",
-        "分类url": "https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-        "分类": "电视剧&电影&综艺&动漫",
-        "分类值": "2&1&3&4"
-      }
-    },   
+ 
 {
 			"key": "电影",
 			"name": "【电影1080P】",
@@ -233,19 +141,7 @@
   	
 
 
- {
-      "key": "文才",
-      "name": "【文一】魅力人影视大全",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    },   
+ 
 
     
    {
@@ -267,7 +163,7 @@
 
 {"key":"新6V","name": "【新6V磁力】魅力人影视大全","type":3,"api":"csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://gitee.com/charming-person/tv/raw/master/202501.jar","ext": "http://www.xb6v.com/"},   
 
-{"key":"醉挽清风","name":"【腾讯视频4K】魅力人影视大全","type":3,"api":"http://wang.qijiyun.vip/yunzc/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"http://110.40.74.165:666/yunfensi/lib/极米2.js"},  		
+		
 			
       
   
@@ -371,25 +267,7 @@
  {"key":"暴风资源","name":"【爆风】魅力人影视大全","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},  
  
 
- {
-      "key": "txsp",
-      "name": "【腾讯视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"},    
-	
-{"key": "guoguo","name": "【芒果4K】魅力人影视大全",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"}, 
+ 
 {"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i","jar":"http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},	
 
 		
@@ -422,39 +300,65 @@
     },	
  {"key":"cctv","name":"【央视大全】魅力人影视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/央视大全.json","jar": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/HeChengChaXiu7.jar"},  
            
-   {
-      "key": "文才",
-      "name": "【文才】魅力人影视大全",
+   
+  {
+      "key": "txsp",
+      "name": "【腾讯视频】魅力人影视大全",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar":"https://gitlab.com/meoliren/tv/-/raw/main/ttkx.jar",
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 10
-    }, 
-    
- {"key":"drpy_js_奇珍异兽","name":"【爱奇艺】魅力人影视大全","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
-
-		{
-			"key": "guoguo",
-			"name": "【芒果】魅力人影视大全",
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"},    
+{
+            "key": "mgsp",
+            "name": "【芒果视频】魅力人影视大全",
+            "type": 3,
+            "api": "http://www.meowtv.cn/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
+        },	
+{"key": "guoguo","name": "【芒果4K】魅力人影视大全",
 			"type": 3,
-			"api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",			
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-		},
-
-
-  { "key": "优酷",
-      "name": "【优酷】魅力人影视大全",
-      "type": 3,
-      "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
-      
-  
+			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"},   
+ {
+            "key": "qysp",
+            "name": "【奇艺视频】魅力人影视大全",
+            "type": 3,
+            "api": "http://www.meowtv.cn/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
+        },
+        {
+            "key": "yksp",
+            "name": "【优酷视频】魅力人影视大全",
+            "type": 3,
+            "api": "http://www.meowtv.cn/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
+        },
+   {
+            "key": "sgys",
+            "name": "【搜狗视频】魅力人影视大全",
+            "type": 3,
+            "api": "http://www.meowtv.cn/js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+        },     
   {
             "key": "1905",
             "name": "【1905影视】魅力人影视大全",
@@ -462,121 +366,10 @@
             "api": "csp_Web1905",
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 0,"jar":"http://wang.qijiyun.vip/yunzc/jar/ttkx.jar"
+            "filterable": 0,"jar":"http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;a9edc77b65fdba8da8d6af08aeaf0d74"
         },    
- {
-      "key": "qysp",
-      "name": "【奇艺视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
-    },
-   
-    {
-      "key": "yksp",
-      "name": "【优酷视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
-    },
-    {
-      "key": "mgsp",
-      "name": "【芒果视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
-    },
-    {
-      "key": "sgys",
-      "name": "【搜狗视频】魅力人影视大全",
-      "type": 3,
-      "api": "http://www.meowtv.cn/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
-    },     
- {  "key": "4K在线看",
-      "name": "【4Kav】魅力人影视大全",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/xmbjm.jar","ext":{
-    "规则名": "4K",
-    "规则作者": "香雅情",
-    "请求头参数": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://4k-av.com/",
-    "网页编码格式": "UTF-8",
-    "图片是否需要代理": "0",
-    "是否开启获取首页数据": "1",
-    "首页推荐链接": "https://4k-av.com",
-    "首页列表数组规则": "#recommlist",
-    "首页片单列表数组规则": "ul&&li",
-    "首页片单是否Jsoup写法": "1",
-    "首页片单标题": "h2&&Text",
-    "首页片单链接": "a&&href",
-    "首页片单图片": "img&&src",
-    "首页片单副标题": "span&&Text",
-    "首页片单链接加前缀": "https://4k-av.com",
-    "分类起始页码": "0",
-    "分类链接": "https://4k-av.com/{cateId}/page-{catePg}.html",
-    "分类名称": "电影&电视剧",
-    "分类名称替换词": "movie&tv",
-    "分类截取模式": "1",
-    "分类列表数组规则": "#MainContent_newestlist&&.NTMitem",
-    "分类片单是否Jsoup写法": "1",
-    "分类片单标题": "h2&&Text",
-    "分类片单链接": "a&&href",
-    "分类片单图片": "img&&src",
-    "分类片单副标题": "div.resyear&&Text",
-    "分类片单链接加前缀": "https://4k-av.com",
-    "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1#Referer$https://4k-av.com/",
-    "搜索链接": "https://4k-av.com/s?q={wd}",
-    "POST请求数据": "",
-    "搜索截取模式": "1",
-    "搜索列表数组规则": "#MainContent_newestlist&&.NTMitem",
-    "搜索片单是否Jsoup写法": "1",
-    "搜索片单图片": "img&&src",
-    "搜索片单标题": "h2&&Text",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": "div.resyear&&Text",
-    "搜索片单链接加前缀": "https://4k-av.com",
-    "搜索片单链接加后缀": "",
-    "链接是否直接播放": "0",
-    "直接播放链接加前缀": "",
-    "直接播放链接加后缀": "#isVideo=true#",
-    "直接播放直链视频请求头": "",
-    "详情是否Jsoup写法": "1",
-    "类型详情": "#MainContent_tags&&Text!标签: ",
-    "年代详情": "label:contains(年份: )&&a&&Text",
-    "地区详情": "",
-    "演员详情": "h2&&Text",
-    "简介详情": "p&&Text",
-    "线路列表数组规则": "",
-    "线路标题": "",
-    "播放列表数组规则": "ul#rtlist",
-    "选集列表数组规则": "ul&&li",
-    "选集标题链接是否Jsoup写法": "1",
-    "选集标题": "span&&Text",
-    "选集链接": "img&&src!screenshot.jpg",
-    "是否反转选集序列": "0",
-    "选集链接加前缀": "",
-    "选集链接加后缀": "",
-    "分析MacPlayer": "0",
-    "是否开启手动嗅探": "1",
-    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
-    "手动嗅探视频链接过滤词": ".html#=http"}
-},
+ 
+ 
 
 
  
@@ -592,8 +385,7 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"
     },  
 
-{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g548458hh994hjj94330jk296k4l045"},
- 
+
      
 
 {"key":"荐片","name":"【荐片影视】魅力人影视大全","api":"csp_Jianpian","type":3,"playerType":"2","ext":"http://api2.rinhome.com","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"},
