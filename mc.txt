@@ -37,13 +37,28 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"},
-   	{
+  {
+			"key": "晴天",
+			"name": "☀️晴天┃1080P",
+			"type": 3,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg=="
+		},
+		{
+			"key": "悠悠",
+			"name": "🏆悠悠┃1080P",
+			"type": 3,
+			"api": "csp_AppGetGuard",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
+		},
+		{
 			"key": "彼岸",
 			"name": "🏖比岸┃1080P",
 			"type": 3,
 			"api": "csp_AppGetGuard",
-			"ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7ofdKrXcYSsYxd+Wx33O1guTCJnhWT9y6xEgCyBMIw94CLlNGtq6BJEkOVCq9ttOaO9qtIDqVoKWaP64OiREdtupLxA0J7QhaW/aVzqLTYtiBkkFECFOVZMtS4js16Zy5VuzNx7tiA9XJkfVM7fTrZdcY2aXPM6zXmgejmIvi3mUw=="
-		},   
+			"ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7pive6/WM9lust5Mt+RF4YRlDNEqLNoLHMx2qn+8fd0eeM4V2kMkA0AtjiEOHJ8KkF1wXdkUnKYxfPeZzUR9DPL4ibrDZHcqEiciYyRtFbBPJ6wn4UwyK3sRMYvcp88bKXb1kZFtpPzbXRluHIQ+0V8YcKK00L4/rQRn30RHCf5UA=="
+		},    
+   
   {
 			"key": "再看",
 			"name": "🔭再看┃1080P",
