@@ -1,6 +1,5 @@
 {
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
-	"wallpaper": "https://t.alcy.cc/fj",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -37,6 +36,8 @@
       "type": 3,
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"},
+ 
+ {"key": "ttys","name": "🐧 腾讯┃4k","type": 3,"api": "http://150.158.112.123/js/dr/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/tenxun.js"},     
   {
 			"key": "晴天",
 			"name": "☀️晴天┃1080P",
@@ -502,6 +503,12 @@
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
+ },
+ {
+      "name": "腾讯视频",
+      "type": "0",
+      "url": "http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E5%BA%94%E7%94%A8%E7%AC%94%E8%AE%B0/jiexi.php?url="
+ 
  },
  
     {
