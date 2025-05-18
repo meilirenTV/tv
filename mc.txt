@@ -52,16 +52,16 @@
 
 {"key": "梦回","name": "🌠 四季┃影霸","type": 3,"api": "csp_AppRJ",
     "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
-    "jar": "./PandaQ250227c.jar"
+    "jar": "https://d.kstore.dev/download/6934/PandaQ250227c.jar"
   },
 
-//{"key": "csp_SuBaiBai","name": "🐭 四季┃素秒","type": 3,"api": "csp_SuBaiBai","ext": "http://subaibai.com","jar": "./PandaQ250212.jar"},
+{"key": "csp_SuBaiBai","name": "🐭 四季┃素秒","type": 3,"api": "csp_SuBaiBai","ext": "http://subaibai.com","jar": "https://d.kstore.dev/download/6934/PandaQ250227c.jar"},
 
 
 
 {"key": "小苹果","name": "🍎 四季┃水果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
 
-//{"key":"csp_Czsapp","name":" 🕵 厂长┃高清","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/","jar":"./250501.jar"},
+{"key":"csp_Czsapp","name":" 🕵 厂长┃高清","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/","jar":"https://d.kstore.dev/download/6934/250501.jar"},
 
 {"key": "zjys","name": "🏡 四季┃追剧","type": 3,"api": "csp_TTian","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,
       "ext": "daHR0cDovL3YubGt1eXMuY24=",
@@ -71,11 +71,11 @@
 
 {"key": "zxzj","name": "⛅️ 四季┃在线","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/"},
 
-{"key":"csp_Tvyb","name":"🌈 四季┃快播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/","jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/202501.jar"},
+{"key":"csp_Tvyb","name":"🌈 四季┃快播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/","jar": "https://d.kstore.dev/download/6934/250501.jar"},
 
 {"key": "时常","name": "🐥 四季┃时尚","type": 3,"api": "csp_ShiChangGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
 
-{"key":"csp_Kuaikan","name":"👀  四季┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kuaikan","name":"👀  四季┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://d.kstore.dev/download/6934/250501.jar"},
 
 
 {"key": "浪酷版","name": "👑 四季┃浪酷","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 2},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
