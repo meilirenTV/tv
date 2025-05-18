@@ -37,7 +37,60 @@
       "api": "csp_Wwys",
       "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"},
  
- {"key": "ttys","name": "🐧 腾讯┃4k","type": 3,"api": "http://150.158.112.123/js/dr/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/tenxun.js"},     
+ {"key": "ttys","name": "🐧 腾讯┃4k","type": 3,"api": "http://150.158.112.123/js/dr/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/tenxun.js"},    
+ 
+  {"key":"T4-caiji","name":"🐭 聚合┃有广","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
+
+
+{"key": "瓜子","name": "🍉 四季┃瓜子","type": 3,"api": "csp_GuaziGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key": "素白白","name": "🔰 四季┃黑白","type": 3,"api": "csp_SubaibaiGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+
+
+{"key": "文才","name": "☀ 四季┃影界","type": 3,"api": "csp_JpysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key": "梦回","name": "🌠 四季┃影霸","type": 3,"api": "csp_AppRJ",
+    "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+    "jar": "./PandaQ250227c.jar"
+  },
+
+//{"key": "csp_SuBaiBai","name": "🐭 四季┃素秒","type": 3,"api": "csp_SuBaiBai","ext": "http://subaibai.com","jar": "./PandaQ250212.jar"},
+
+
+
+{"key": "小苹果","name": "🍎 四季┃水果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+//{"key":"csp_Czsapp","name":" 🕵 厂长┃高清","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/","jar":"./250501.jar"},
+
+{"key": "zjys","name": "🏡 四季┃追剧","type": 3,"api": "csp_TTian","searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 1,
+      "ext": "daHR0cDovL3YubGt1eXMuY24=",
+      "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
+    },
+
+
+{"key": "zxzj","name": "⛅️ 四季┃在线","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/"},
+
+{"key":"csp_Tvyb","name":"🌈 四季┃快播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/","jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/202501.jar"},
+
+{"key": "时常","name": "🐥 四季┃时尚","type": 3,"api": "csp_ShiChangGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key":"csp_Kuaikan","name":"👀  四季┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
+
+{"key": "浪酷版","name": "👑 四季┃浪酷","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 2},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key": "️爱看Bot","name": "⛅️ 阳光┃有广","type": 3,"api": "csp_IkanbotGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key":"热播","name":"👌 四季┃精品","type":3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 0},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key": "天天","name": "📅  四季┃天时","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 1},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+{"key": "星芽短剧","name": "💖星芽┃短剧","type": 3,"api": "csp_AppXYGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+
+ 
+    
+      
   {
 			"key": "晴天",
 			"name": "☀️晴天┃1080P",
@@ -504,6 +557,8 @@
         }
       }
  },
+{"name":"巧技","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+
  {
       "name": "腾讯视频",
       "type": "0",
