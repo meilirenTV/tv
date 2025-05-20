@@ -2,18 +2,11 @@
 
  
  {
-      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "url":"https://d.kstore.dev/download/6934/mc.txt",
       "name": "魅力人影视1"
     }, 
 
-  {
-      "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
-      "name": "魅力人影视2"
-    }, 
-   {
-      "url": "https://notabug.org/mlr/tv/raw/master/mc.txt",
-      "name": "魅力人影视3"
-    },  
+  
    
    {
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
@@ -21,6 +14,22 @@
     },  
       {  "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
       "name": "魅力人影院5"
+    }, 
+  {
+      "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
+      "name": "魅力人影视2备用"
+    }, 
+   {
+      "url": "https://notabug.org/mlr/tv/raw/master/mc.txt",
+      "name": "魅力人影视3备用"
+    },    
+  {
+      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "name": "魅力人影视1不好用"
+    },    
+   {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "短剧大全"
     }, 
    {
       "url":"https://d.kstore.dev/download/12020/t4.json",
