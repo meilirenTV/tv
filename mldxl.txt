@@ -16,13 +16,13 @@
       "name": "魅力人影视3"
     },  
       {  "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
-      "name": "魅力人影院备用"
+      "name": "版本更新请前往*设置-个性设置-重置APP*此网链出现问题不好用"
     }, 
 
 
   {
       "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
-      "name": "魅力人影视1不好用"
+      "name": "版本更新请前往*设置-个性设置-重置APP*此网链出现问题不好用"
     },    
    {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
