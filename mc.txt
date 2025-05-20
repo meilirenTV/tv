@@ -1,23 +1,30 @@
 {
 "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
-"logo":"https://gitlab.com/meoliren/tv/-/raw/main/mmexport1731975335138.jpg","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
+"logo":"https://git.acwing.com/meiliren/tv/-/raw/main/yn.png","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
 
 "lives":[
-{"name":"魅力人IPTV1","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt?ref_type=heads","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
-{"name":"魅力人IPTV2","type":0,"url":"https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
-
-{"name":"魅力人IPTV3","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"魅力人IPTV凯速","type":0,"url":"https://d.kstore.dev/download/6934/zhibo.txt",
+ "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
 
-{"name":"魅力人IPTV4","type":0,"url":"https://gitee.com/monosodium-glutamate/wjwj/raw/master/%E7%9B%B4%E6%92%AD",
+{"name":"魅力人IPTV🇺🇸S","type":0,"url":"https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://diyp10.112114.xyz/logo/{name}.png"},
+
+{"name":"魅力人IPTV🇺🇸","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/main/zhibo.txt","playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
+
+{"name":"魅力人IPTVgitlab","type":0,"url":"https://gitlab.com/meoliren/tv/-/raw/main/zhibo.txt",
  "playerType":1,"ua": "okhttp/3.15","epg":"https://diyp8.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],                  
 
 "sites":
  [
  //{"key":"魅力人","name":"本影视软件有(魅力人)🐂长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
- {"key": "糯米","name": "【老百姓影院】魅力人影视大全","type": 3,"api": "csp_NmysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+ {"key": "糯米","name": "【版本已更新请前往*设置-个性设置-最底部-重置APP*魅力人影视大全】自用版","type": 3,"api": "csp_NmysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
+
+ 
+
+ 
  {
             "key": "农珉",
             "name": "【农民】魅力人影视大全",
@@ -42,13 +49,13 @@
   {"key":"T4-caiji","name":"🐭 聚合┃有广","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 
 
-{"key": "瓜子","name": "🍉 四季┃瓜子","type": 3,"api": "csp_GuaziGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "瓜子","name": "🍉 四季┃瓜子","type": 3,"api": "csp_GuaziGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
-{"key": "素白白","name": "🔰 四季┃黑白","type": 3,"api": "csp_SubaibaiGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "素白白","name": "🔰 四季┃黑白","type": 3,"api": "csp_SubaibaiGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
 
 
-{"key": "文才","name": "☀ 四季┃文才","type": 3,"api": "csp_JpysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "文才","name": "☀ 四季┃文才","type": 3,"api": "csp_JpysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
 {"key": "梦回","name": "🌠 四季┃梦回","type": 3,"api": "csp_AppRJ",
     "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
@@ -59,7 +66,7 @@
 
 
 
-{"key": "小苹果","name": "🍎 四季┃小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "小苹果","name": "🍎 四季┃小苹果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
 {"key":"csp_Czsapp","name":" 🕵 厂长┃厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/","jar":"https://d.kstore.dev/download/6934/250501.jar"},
 
@@ -69,24 +76,22 @@
     },
 
 
-{"key": "zxzj","name": "⛅️ 四季┃在线","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/","jar": "https://d.kstore.dev/download/6934/250501.jar"},
 
-{"key":"csp_Tvyb","name":"🌈 四季┃快播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/","jar": "https://d.kstore.dev/download/6934/250501.jar"},
 
-{"key": "时常","name": "🐥 四季┃时常","type": 3,"api": "csp_ShiChangGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "时常","name": "🐥 四季┃时常","type": 3,"api": "csp_ShiChangGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
 {"key":"csp_Kuaikan","name":"👀  四季┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://d.kstore.dev/download/6934/250501.jar"},
 
 
-{"key": "浪酷版","name": "👑 四季┃浪酷","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 2},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "浪酷版","name": "👑 四季┃浪酷","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 2},"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
-{"key": "️爱看Bot","name": "⛅️ 爱看┃有广","type": 3,"api": "csp_IkanbotGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "️爱看Bot","name": "⛅️ 爱看┃有广","type": 3,"api": "csp_IkanbotGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
-{"key":"热播","name":"👌 四季┃热播","type":3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 0},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key":"热播","name":"👌 四季┃热播","type":3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 0},"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
-{"key": "天天","name": "📅  四季┃天天","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 1},"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "天天","name": "📅  四季┃天天","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": 1},"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
-{"key": "星芽短剧","name": "💖星芽┃短剧","type": 3,"api": "csp_AppXYGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://ghproxy.net/https://github.com/meilirenTV/tv/raw/main/ok0425.jar"},
+{"key": "星芽短剧","name": "💖星芽┃短剧","type": 3,"api": "csp_AppXYGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
  
     
