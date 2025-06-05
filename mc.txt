@@ -386,16 +386,11 @@
 			}
 		},
  	
-  
+ 
 
-	    {
-      "key": "cctv",
-      "name": "【央视】魅力人影视大全",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,"jar":"https://gitlab.com/meoliren/tv/-/raw/main/HeChengChaXiu.jar","ext": "https://gitlab.com/meoliren/tv/-/raw/main/%E5%A4%AE%E8%A7%86%E5%A4%A7%E5%85%A8.json"
-    },	
+
+
+	    
  {"key":"cctv","name":"【央视大全】魅力人影视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/央视大全.json","jar": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/HeChengChaXiu7.jar"},  
            
    
