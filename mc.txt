@@ -1,5 +1,6 @@
-{
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
+{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749207154185/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1",
+	
+//"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b",
 "wallpaper":"http://ceshi.xn--z7x900a.com/ppic/feimao.php",
 "logo":"https://git.acwing.com/meiliren/tv/-/raw/main/yn.png","warningText":"本软件有魅力人本人维护,所有内容仅供学习使用不要贩卖盗用做非法之事违者后果自负.举报联系15935727472",
 
@@ -20,10 +21,124 @@
 "sites":
  [
  //{"key":"魅力人","name":"本影视软件有(魅力人)🐂长期维护","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"},
- {"key": "糯米","name": "【新版魅力人影视大全】自用版","type": 3,"api": "csp_NmysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
+ //{"key": "糯米","name": "【新版魅力人影视大全】自用版","type": 3,"api": "csp_NmysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://d.kstore.dev/download/6934/ok0425.jar"},
 
- 
-
+ {
+			"key": "csp_nongmin",
+			"name": "👨农民┃1080P",
+			"type": 3,
+			"api": "csp_Wwys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://wwgz.cn/"
+		},
+		{
+			"key": "热热",
+			"name": "🔥热热┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppRJ2",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+		},
+		{
+			"key": "QD4K",
+			"name": "🐷猪猪┃单线4K",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"playerType": 2,
+			"ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/cs.txt"
+		},
+		{
+			"key": "彼岸",
+			"name": "🏖比岸┃1080P",
+			"type": 3,
+			"api": "csp_AppGet",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn7aCdbmEEJemIAMIZKUtqGgsGGu8pwXvr2LeRsZcUw470sPHEcVGwL+S1KXewVMXjiKIO8pyAb+D92wSofXabJ9D/vp1BrWcRY0oqseMr0zdjuUttXvKLF3XIAMohb0gy17AJwWfADv8Wx1ra5IL24b2nxG2mlHFKyBU+JPeaCC+MC0C5XKErmQDfukUrod2vFfOf3hBQOgF1s4YCnVypCrZ/kuEv9GBLPI+6ikvXEkQ8L//Ka1SL++vi3Do4Ub+DA=="
+		},
+		{
+			"key": "巧技",
+			"name": "🚗聚搜┃单线4K",
+			"type": 3,
+			"api": "csp_qiao2",
+			"playerType": 2,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749181726843/kenna.png;md5;bea0e94d4bbefc6dfc5f7de2620192ce",
+			"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
+		},
+		{
+			"key": "仓鼠",
+			"name": "🐀仓鼠┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGet2",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ=="
+		},
+		{
+			"key": "水滴",
+			"name": "💧水滴┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGet2",
+			"ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW"
+		},
+		{
+			"key": "咖啡",
+			"name": "☕️咖啡┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGet2",
+			"ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnchbMLbbfPL19q8ovW5h2m+h6Vc2ZfvuHR8URxTWX9fgAm0kDDPtgJttitzPQi4xPbaH/BOVSMXdJGDbrzM3VAoJEcX+yxPdaXkrxvaZdq0lCjldlb9yAWC8ZiHssSH+9EKI//ESHDquz0m1V5Bhe/W7UmkE2CRveFiiN2uJABZy1DE1fmdV0B+V+gwiUMKelPBhYA29qkB/0/MY0gVsENky2zTdTFCl4qaFGUz8+G6j6ze5mYO4KfuQ9soedmY0yeXNzPeMZ6rquyAGtngEkw"
+		},
+		{
+			"key": "牛牛",
+			"name": "🐂牛牛┃单线4K",
+			"type": 3,
+			"api": "https://13826.kstore.space/mioaying.py"
+		},
+		{
+			"key": "光速",
+			"name": "☁️云端┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGet",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
+		},
+		{
+			"key": "咕咕",
+			"name": "🛹番剧┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_AppGet",
+			"ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+		},
+		{
+			"key": "人人",
+			"name": "⛄️人人┃1080P",
+			"type": 3,
+			"api": "csp_AppGet",
+			"ext": "sHR2rlsfjI4L3t4RXQMknw+zXdsvYSFPrylVBk8Otj7BtrOcImUIxu7uCmi/oCEVSH+1Tuw/tXHzW47SGQsj8bRydPRgWesjHAxv9eu8eO9hOGeUeBKsucMHODs09HXY4kiPp3p1vemBghpvJFm9mx/FFTQYaEQ33Bpqwk73VkDa2zWgoB0CNuBseJhbj2hRKqOiT08iymzh4sSfhjJ5tbS5yTDxPIJAjwMijWuyOJB++d859vxajKD2Jg5qw0lv"
+		},
+{
+			"key": "csp_Gz360",
+			"name": "🍉瓜子┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_Gz360"
+		},
+		{
+			"key": "步步",
+			"name": "👟步步┃1080P",
+			"type": 3,
+			"api": "https://weixine.net/js/lib/drpy2.min.js",
+			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
+		},
+		{
+			"key": "csp_Jpys",
+			"name": "🥇金牌┃1080P",
+			"type": 3,
+			"quickSearch": 1,
+			"api": "csp_Jpys"
+		},
  
  {
             "key": "农珉",
@@ -45,6 +160,17 @@
       "ext": "https://www.wwgz.cn","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"},
  
  {"key": "ttys","name": "🐧 腾讯┃4k","type": 3,"api": "http://150.158.112.123/js/dr/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/tenxun.js"},    
+ 
+ {
+			"key": "csp_臻彩",
+			"name": "🥽臻彩┃4K4K",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/kan.txt"
+		},
  
   {"key":"T4-caiji","name":"🐭 聚合┃有广","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
 
