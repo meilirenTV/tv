@@ -1,35 +1,35 @@
-{ " URL ":[
+{ "urls": [
 
  
  {
-" URL ":" https://d . k store。发展/下载/6934/MC。txt”，
-"名称": "魅力人影视1"
+      "url":"https://d.kstore.dev/download/6934/mc.txt",
+      "name": "魅力人影视1"
     }, 
 
     {
-" URL ":" https://git。交流电(交流电)翼。com/Meili ren/TV/-/raw/main/MC。txt”，
-"名称": "魅力人影视2"
+      "url":"https://git.acwing.com/meiliren/tv/-/raw/main/mc.txt",
+      "name": "魅力人影视2"
     }, 
    
    {
-" URL ":" https://GH .llkk .cc/https://raw .githubusercontent .com/Meili rentv/TV/refs/heads/main/MC .txt”，
-"名称": "魅力人影视3"
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/meilirenTV/tv/refs/heads/main/mc.txt",
+      "name": "魅力人影视3"
     },  
-{ " URL ":" https://raw。githubusercontents。com/Meili rentv/TV/refs/heads/main/MC。txt？t=202501116”，
-"名称": "版本更新请前往*设置-个性设置-重置应用*此网链出现问题不好用"
+      {  "url": "https://raw.githubusercontentS.com/meilirenTV/tv/refs/heads/main/mc.txt?t=202501116",
+      "name": "版本更新请前往*设置-个性设置-重置APP*此网链出现问题不好用"
     }, 
 
 
   {
-" URL ":" https://git lab。com/meoli ren/TV/-/raw/main/MC。txt？ref_type=heads "，
-"名称": "版本更新请前往*设置-个性设置-重置应用*此网链出现问题不好用"
+      "url":"https://gitlab.com/meoliren/tv/-/raw/main/mc.txt?ref_type=heads",
+      "name": "版本更新请前往*设置-个性设置-重置APP*此网链出现问题不好用"
     },    
    {
-" URL ":" http://74。120 .175 .78/JK/XYQTVBox/DJ。JSON”，
-名称:《短篇小说》
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "短剧大全"
     }, 
    {
-“url”: “https://d.kstore.dev/download/12020/t4.json”,
+      "url":"https://d.kstore.dev/download/12020/t4.json",
       "name": "魅力人T4影视凯速"
     },    
      {
@@ -39,7 +39,7 @@
 
     
     {
-“url”: “https://yydf.540734621.xyz/QQ/yydf2024.json”,
+      "url":"https://yydf.540734621.xyz/QQ/yydf2024.json",
       "name": "魅力人业余线路"
     }, 
        {
@@ -58,43 +58,43 @@
     
      
     {
-"网址”:“http://suo.im/cctv”，
-"名称": "魅力人喊麦影视"
+      "url": "http://suo.im/cctv",
+      "name": "魅力人mc影视"
     },
     
     
     
     {
-"网址":" https://700 sjro 44343 .vicp .娱乐/节目/节目/电视.JSON”，
-"名称": "🚀700线🚀"
+      "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+      "name": "🚀700线🚀"
     },
    
    
     {
-" URL ":" http://cdn . qiaoji 8 . com/TV box . JSON "，
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "🚀巧记影视"
     },
   
    
     {
-" url": "http://www。饭太硬. com/tv/"，
-"名称": "🚀饭硬专线"
+      "url": "http://www.饭太硬.com/tv/",
+      "name": "🚀饭硬专线"
     },
     {
-" URL ":" https://7337 . kstore . space/tw VIP/% E8 % 87% AA % E7 % 94% A8 % E6 % B5 % 8B % E8 % AF % 95 . JSON "，
-"名称": "🚀天威专线"
+      "url": "https://7337.kstore.space/twvip/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🚀天威专线"
     },
         {
-" url": "http://肥猫. com/"，
-"名称": "🚀肥猫线路"
+      "url": "http://肥猫.com/",
+      "name": "🚀肥猫线路"
     },
   {
-“url”: “http://miqk.cc/ Xiaomi/DEMO.json”,
-"名称": "🚀七小米专线"
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "name": "🚀7小米专线"
     },      
     
  
-{ " URL ":" https://GH .con . sh/https://raw .githubusercontent .com/qaz 1371041/电视盒/main/18 .JSON "，" name":"10"}
+{"url":"https://gh.con.sh/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json","name":"10"}  
   ]
 }
 
