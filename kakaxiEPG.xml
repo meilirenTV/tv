@@ -18351,6 +18351,18 @@
 	<programme channel="咪咕综合体育" start="20260610175500 +0800" stop="20260610193500 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第34轮 巴黎FC-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260610194500 +0800" stop="20260610195000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260610195000 +0800" stop="20260610203500 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第37轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260610204000 +0800" stop="20260610222000 +0800">
+		<title lang="zh">足球世界-2026世界杯热身赛 摩洛哥-挪威</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260610223500 +0800" stop="20260610000000 +0800">
+		<title lang="zh">网球世界-2026WTA迈阿密站女单第3轮 郑钦文-凯斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18443,6 +18455,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260610190500 +0800" stop="20260610191500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260610193000 +0800" stop="20260610203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260610203500 +0800" stop="20260610221000 +0800">
+		<title lang="zh">2026中国男篮系列热身赛 第一场 中国男篮-KK FMP俱乐部</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260610221000 +0800" stop="20260610222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260610222000 +0800" stop="20260610235000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季排位赛 第4轮 合肥文旅-浙江稠州银行</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60180,6 +60204,15 @@
 	<programme channel="newtv超级综艺" start="20260610191500 +0800" stop="20260610203200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260610203200 +0800" stop="20260610214900 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260610214900 +0800" stop="20260610230900 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260610230900 +0800" stop="20260610235400 +0800">
+		<title lang="zh">21_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60240,6 +60273,15 @@
 	<programme channel="newtv超级体育" start="20260610190000 +0800" stop="20260610200000 +0800">
 		<title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260610200000 +0800" stop="20260610213000 +0800">
+		<title lang="zh">2026年中国男篮热身赛-长沙站(中国队-塞尔维亚FMP俱乐部队)第一场(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260610213000 +0800" stop="20260610223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260610223500 +0800" stop="20260610000500 +0800">
+		<title lang="zh">实况录像-2026年世界女排联赛 南京站 中国队-泰国队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60281,6 +60323,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260610184400 +0800" stop="20260610202000 +0800">
 		<title lang="zh">天b7火</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260610202000 +0800" stop="20260610215400 +0800">
+		<title lang="zh">东邪西毒：终极版</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260610215400 +0800" stop="20260610232000 +0800">
+		<title lang="zh">神偷谍影</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260610232000 +0800" stop="20260610004700 +0800">
+		<title lang="zh">红番区</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60365,6 +60416,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260610185600 +0800" stop="20260610193800 +0800">
 		<title lang="zh">13_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610193800 +0800" stop="20260610201900 +0800">
+		<title lang="zh">14_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610201900 +0800" stop="20260610210100 +0800">
+		<title lang="zh">15_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610210100 +0800" stop="20260610214700 +0800">
+		<title lang="zh">20_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610214700 +0800" stop="20260610222900 +0800">
+		<title lang="zh">21_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610222900 +0800" stop="20260610231400 +0800">
+		<title lang="zh">22_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610231400 +0800" stop="20260610000000 +0800">
+		<title lang="zh">23_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61007,6 +61076,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260610191800 +0800" stop="20260610200200 +0800">
 		<title lang="zh">16_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610200200 +0800" stop="20260610203300 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610203300 +0800" stop="20260610211600 +0800">
+		<title lang="zh">17_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610211600 +0800" stop="20260610214600 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610214600 +0800" stop="20260610222900 +0800">
+		<title lang="zh">18_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610222900 +0800" stop="20260610225900 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610225900 +0800" stop="20260610234300 +0800">
+		<title lang="zh">19_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
